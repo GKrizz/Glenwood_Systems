@@ -539,3 +539,19 @@
 | **Day 257** | January 30, 2026 | Friday    | **Case # : 	240728** -- MIPS – Pencil Icon Not Showing for All Eligible Encounters                                     | [View →](Week37/Day257-README.md) |
 | **Day 258** | January 31, 2026 | Saturday  | 🌴 **Leave**                                 | –                                 |
 | **Day 259** | February 1, 2026 | Sunday    | 🌴 **Leave**                                 | –                                 |
+
+
+---
+## 📅 Week 38 Summary
+
+| 📆 Day      | Date             | Day       | 🚀 Highlights | 📄 Link                           |
+| ----------- | ---------------- | --------- | ------------- | --------------------------------- |
+| **Day 260** | February 2, 2026 | Monday    | —             | [View →](Week38/Day260-README.md) |
+| **Day 261** | February 3, 2026 | Tuesday   | —             | [View →](Week38/Day261-README.md) |
+| **Day 262** | February 4, 2026 | Wednesday | —             | [View →](Week38/Day262-README.md) |
+| **Day 263** | February 5, 2026 | Thursday  | —             | [View →](Week38/Day263-README.md) |
+| **Day 264** | February 6, 2026 | Friday    | —             | [View →](Week38/Day264-README.md) |
+| **Day 265** | February 7, 2026 | Saturday  | 🌴 **Leave**  | –                                 |
+| **Day 266** | February 8, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
+
+
