@@ -1,3 +1,8 @@
+![Module](https://img.shields.io/badge/Module-MIPS-blue)
+![Role](https://img.shields.io/badge/Role-Module%20Owner-%236f42c1)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Ownership](https://img.shields.io/badge/Ownership%20Since-Feb%202%202026-orange)
+
 # 🧠 **Daily Progress Log**
 
 > Welcome to my daily journal as a **Software Engineer** — tracking my setup, learning, and development journey.
@@ -546,12 +551,14 @@
 
 | 📆 Day      | Date             | Day       | 🚀 Highlights | 📄 Link                           |
 | ----------- | ---------------- | --------- | ------------- | --------------------------------- |
-| **Day 260** | **February 2, 2026** | **Monday** | 🏆✨ **DAY 1 AS MODULE OWNER**  —          | [View →](Week38/Day260-README.md) |
+| **Day 260** | **February 2, 2026** | **Monday** | ![Module Owner](https://img.shields.io/badge/Role-Module%20Owner-%236f42c1) | [View →](Week38/Day260-README.md) |
 | **Day 261** | February 3, 2026 | Tuesday   | —             | [View →](Week38/Day261-README.md) |
 | **Day 262** | February 4, 2026 | Wednesday | —             | [View →](Week38/Day262-README.md) |
 | **Day 263** | February 5, 2026 | Thursday  | —             | [View →](Week38/Day263-README.md) |
 | **Day 264** | February 6, 2026 | Friday    | —             | [View →](Week38/Day264-README.md) |
 | **Day 265** | February 7, 2026 | Saturday  | 🌴 **Leave**  | –                                 |
 | **Day 266** | February 8, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
+
+
 
 
