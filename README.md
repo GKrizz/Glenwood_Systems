@@ -536,6 +536,6 @@
 | **Day 254** | January 27, 2026 | Tuesday   | **Value Set OID Processing via SFTP (2026)** | [View →](Week37/Day254-README.md) |
 | **Day 255** | January 28, 2026 | Wednesday | **TBD**                                      | [View →](Week37/Day255-README.md) |
 | **Day 256** | January 29, 2026 | Thursday  | **TBD**                                      | [View →](Week37/Day256-README.md) |
-| **Day 257** | January 30, 2026 | Friday    | **TBD**                                      | [View →](Week37/Day257-README.md) |
+| **Day 257** | January 30, 2026 | Friday    | **Case # : 	240728** -- MIPS – Pencil Icon Not Showing for All Eligible Encounters                                     | [View →](Week37/Day257-README.md) |
 | **Day 258** | January 31, 2026 | Saturday  | 🌴 **Leave**                                 | –                                 |
 | **Day 259** | February 1, 2026 | Sunday    | 🌴 **Leave**                                 | –                                 |
