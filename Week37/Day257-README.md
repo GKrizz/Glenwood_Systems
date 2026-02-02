@@ -254,20 +254,3 @@ GROUP BY patient_id;
 | Diagnosis Requirement | ❌ Missing       |
 | Root Cause            | Identified      |
 | Fix Type              | Clinical / Data |
-
----
-
-### ✅ This README can be reused for:
-
-* MIPS BP issues
-* Pencil icon visibility problems
-* Measure 236 / 317 validation
-* QA & audit explanations
-
-If you want, I can also:
-
-* Shorten this into a **case comment**
-* Convert it into a **Confluence page**
-* Create a **generic MIPS debug checklist**
-
-Just say the word 👍
