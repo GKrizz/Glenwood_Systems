@@ -552,13 +552,29 @@
 | 📆 Day      | Date             | Day       | 🚀 Highlights | 📄 Link                           |
 | ----------- | ---------------- | --------- | ------------- | --------------------------------- |
 | **Day 260** | **February 2, 2026** | **Monday** | ![Module Owner](https://img.shields.io/badge/Role-Module%20Owner-%236f42c1) <br> **Case #241239** – MIPS Reporting Assistance (Completed)| [View →](Week38/Day260-README.md) |
-| **Day 261** | February 3, 2026 | Tuesday   | **Case #240728** — URGENT: MIPS (CMS22v13 – Measure 317)            | [View →](Week38/Day261-README.md) |
-| **Day 262** | February 4, 2026 | Wednesday | **Case #241377** — IssueQRDA III Issue             | [View →](Week38/Day262-README.md) |
-| **Day 263** | February 5, 2026 | Thursday  | —             | [View →](Week38/Day263-README.md) |
-| **Day 264** | February 6, 2026 | Friday    | —             | [View →](Week38/Day264-README.md) |
-| **Day 265** | February 7, 2026 | Saturday  | 🌴 **Leave**  | –                                 |
+| **Day 261** | February 3, 2026 | Tuesday   | **Case #240728** — URGENT: MIPS (CMS22v13 – Measure 317)  (Completed)          | [View →](Week38/Day261-README.md) |
+| **Day 262** | February 4, 2026 | Wednesday | **Case #241377** — IssueQRDA III Issue  (Completed)           | [View →](Week38/Day262-README.md) |
+| **Day 263** | February 5, 2026 | Thursday  | **Case #241452** — Patients marked as “checked out” throwing an error since Monday (as per DO)
+⏳ Pending             | [View →](Week38/Day263-README.md) |
+| **Day 264** | February 6, 2026 | Friday    | **Case #241538** — Unable to display eCQM data (Dr. Pinson & MIM)
+⏳ Pending             | [View →](Week38/Day264-README.md) |
+| **Day 265** | February 7, 2026 | Saturday  |  **Combo-Off (Alternate weekday leave)**  | –                                 |
 | **Day 266** | February 8, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
 
+---
+
+## 📅 Week 39 Summary
+
+
+| 📆 Day      | Date                 | Day        | 🚀 Highlights | 📄 Link                           |
+| ----------- | -------------------- | ---------- | ------------- | --------------------------------- |
+| **Day 267** | February 9, 2026     |  Monday    | **Case #241538** — Unable to display eCQM data (Dr. Pinson & MIM)(completed)             | [View →](Week39/Day267-README.md) |
+| **Day 268** | February 10, 2026    | Tuesday    | —             | [View →](Week39/Day268-README.md) |
+| **Day 269** | February 11, 2026    | Wednesday  | —             | [View →](Week39/Day269-README.md) |
+| **Day 270** | February 12, 2026    | Thursday   | —             | [View →](Week39/Day270-README.md) |
+| **Day 271** | February 13, 2026    | Friday     | —             | [View →](Week39/Day271-README.md) |
+| **Day 272** | February 14, 2026    | Saturday   | —             | –                                 |
+| **Day 273** | February 15, 2026    | Sunday     | 🌴 **Leave**  | –                                 |
 
 
 
