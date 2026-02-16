@@ -576,5 +576,20 @@
 | **Day 272** | February 14, 2026    | Saturday   | 🌴 **Leave**  | –                                 |
 | **Day 273** | February 15, 2026    | Sunday     | 🌴 **Leave**  | –                                 |
 
+---
+
+## 📅 Week 40 Summary
+
+
+| 📆 Day      | Date              | Day       | 🚀 Highlights | 📄 Link                           |
+| ----------- | ----------------- | --------- | ------------- | --------------------------------- |
+| **Day 274** | February 16, 2026 | Monday    | —             | [View →](Week40/Day274-README.md) |
+| **Day 275** | February 17, 2026 | Tuesday   | —             | [View →](Week40/Day275-README.md) |
+| **Day 276** | February 18, 2026 | Wednesday | —             | [View →](Week40/Day276-README.md) |
+| **Day 277** | February 19, 2026 | Thursday  | —             | [View →](Week40/Day277-README.md) |
+| **Day 278** | February 20, 2026 | Friday    | —             | [View →](Week40/Day278-README.md) |
+| **Day 279** | February 21, 2026 | Saturday  | 🌴 **Leave**  | –                                 |
+| **Day 280** | February 22, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
+
 
 
