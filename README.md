@@ -570,10 +570,10 @@
 | ----------- | -------------------- | ---------- | ------------- | --------------------------------- |
 | **Day 267** | February 9, 2026     |  Monday    | **Case #241538** — Unable to display eCQM data (Dr. Pinson & MIM)(completed)             | [View →](Week39/Day267-README.md) |
 | **Day 268** | February 10, 2026    | Tuesday    | **Case #241552** – Smoking Status entered in MIPS Flowsheet not saved – Dr. Awani Kumar (AKM)             | [View →](Week39/Day268-README.md) |
-| **Day 269** | February 11, 2026    | Wednesday  | —             | [View →](Week39/Day269-README.md) |
-| **Day 270** | February 12, 2026    | Thursday   | —             | [View →](Week39/Day270-README.md) |
-| **Day 271** | February 13, 2026    | Friday     | —             | [View →](Week39/Day271-README.md) |
-| **Day 272** | February 14, 2026    | Saturday   | —             | –                                 |
+| **Day 269** | February 11, 2026    | Wednesday  | **Case #241737** – Unable to show eCQM Data – Sambriz               | [View →](Week39/Day269-README.md) |
+| **Day 270** | February 12, 2026    | Thursday   | **Case #241552** – Smoking Status entered in MIPS Flowsheet not saved – Dr. Awani Kumar (AKM)               | [View →](Week39/Day270-README.md) |
+| **Day 271** | February 13, 2026    | Friday     | Consider **'Referral for Adult Depression'** forDepression and Follow-up - Dr Pinson             | [View →](Week39/Day271-README.md) |
+| **Day 272** | February 14, 2026    | Saturday   | 🌴 **Leave**  | –                                 |
 | **Day 273** | February 15, 2026    | Sunday     | 🌴 **Leave**  | –                                 |
 
 
