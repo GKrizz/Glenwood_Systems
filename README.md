@@ -583,7 +583,7 @@
 
 | 📆 Day      | Date              | Day       | 🚀 Highlights | 📄 Link                           |
 | ----------- | ----------------- | --------- | ------------- | --------------------------------- |
-| **Day 274** | February 16, 2026 | Monday    | —             | [View →](Week40/Day274-README.md) |
+| **Day 274** | February 16, 2026 | Monday    | 🌴 **Took Leave**              | [View →](Week40/Day274-README.md) |
 | **Day 275** | February 17, 2026 | Tuesday   | —             | [View →](Week40/Day275-README.md) |
 | **Day 276** | February 18, 2026 | Wednesday | —             | [View →](Week40/Day276-README.md) |
 | **Day 277** | February 19, 2026 | Thursday  | —             | [View →](Week40/Day277-README.md) |
@@ -591,5 +591,20 @@
 | **Day 279** | February 21, 2026 | Saturday  | 🌴 **Leave**  | –                                 |
 | **Day 280** | February 22, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
 
+
+---
+
+## 📅 Week 41 Summary
+
+
+| 📆 Day      | Date              | Day       | 🚀 Highlights | 📄 Link                           |
+| ----------- | ----------------- | --------- | ------------- | --------------------------------- |
+| **Day 281** | February 23, 2026 | Monday    | —             | [View →](Week41/Day281-README.md) |
+| **Day 282** | February 24, 2026 | Tuesday   | —             | [View →](Week41/Day282-README.md) |
+| **Day 283** | February 25, 2026 | Wednesday | —             | [View →](Week41/Day283-README.md) |
+| **Day 284** | February 26, 2026 | Thursday  | —             | [View →](Week41/Day284-README.md) |
+| **Day 285** | February 27, 2026 | Friday    | —             | [View →](Week41/Day285-README.md) |
+| **Day 286** | February 28, 2026 | Saturday  |🌴 **Leave**   | [View →](Week41/Day286-README.md) |
+| **Day 287** | February 29, 2026 | Sunday    |🌴 **Leave**   | [View →](Week41/Day287-README.md) |
 
 
