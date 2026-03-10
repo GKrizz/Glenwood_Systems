@@ -618,8 +618,8 @@
 | **Day 290** | March 4, 2026 | Wednesday | —             | [View →](Week42/Day290-README.md) |
 | **Day 291** | March 5, 2026 | Thursday  | —             | [View →](Week42/Day291-README.md) |
 | **Day 292** | March 6, 2026 | Friday    | —             | [View →](Week42/Day292-README.md) |
-| **Day 293** | March 7, 2026 | Saturday  | 🌴 **Leave**             | [View →](Week42/Day293-README.md) |
-| **Day 294** | March 8, 2026 | Sunday    | 🌴 **Leave**             | [View →](Week42/Day294-README.md) |
+| **Day 293** | March 7, 2026 | Saturday  | 🌴 **Leave**             | –                                 |
+| **Day 294** | March 8, 2026 | Sunday    | 🌴 **Leave**             | –                                 |
 
 
 ---
@@ -633,9 +633,8 @@
 | **Day 297** | March 11, 2026 | Wednesday | —             | [View →](Week43/Day297-README.md) |
 | **Day 298** | March 12, 2026 | Thursday  | —             | [View →](Week43/Day298-README.md) |
 | **Day 299** | March 13, 2026 | Friday    | —             | [View →](Week43/Day299-README.md) |
-| **Day 300** | March 14, 2026 | Saturday  | 🌴 **Leave**  | [View →](Week43/Day300-README.md) |
-| **Day 301** | March 15, 2026 | Sunday    | 🌴 **Leave**  | [View →](Week43/Day301-README.md) |
-
+| **Day 300** | March 14, 2026 | Saturday  | 🌴 **Leave**  | –                                 |
+| **Day 301** | March 15, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
 
 
 
