@@ -627,7 +627,7 @@
 | 📆 Day      | Date          | Day       | 🚀 Highlights | 📄 Link                           |
 | ----------- | ------------- | --------- | ------------- | --------------------------------- |
 | **Day 295** | March 9, 2026 | Monday    | QRDA Visit Exclusion Issue – CMS130 & CMS317             | [View →](Week43/Day295-README.md) |
-| **Day 296** | March 10, 2026 | Tuesday  | —             | [View →](Week43/Day296-README.md) |
+| **Day 296** | March 10, 2026 | Tuesday  | MACRA Tab Not Loading - vbethala             | [View →](Week43/Day296-README.md) |
 | **Day 297** | March 11, 2026 | Wednesday | —             | [View →](Week43/Day297-README.md) |
 | **Day 298** | March 12, 2026 | Thursday  | —             | [View →](Week43/Day298-README.md) |
 | **Day 299** | March 13, 2026 | Friday    | —             | [View →](Week43/Day299-README.md) |
