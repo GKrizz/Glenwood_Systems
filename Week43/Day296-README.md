@@ -1,9 +1,4 @@
-Below is a **clean, professional, full README.md** combining everything you wrote, but organized the way **engineering teams typically document production bugs and fixes**.
-You can **paste this directly into GitHub / GitLab / Confluence**.
-
----
-
-# MACRA Tab Not Loading – Debug & Resolution Guide
+# MACRA Tab Not Loading - vbethala
 
 **Issue ID:** MACRA-TAB-LOAD-FAILURE
 **Reported By:** Dr. Bethala
