@@ -631,7 +631,7 @@
 | **Day 297** | March 11, 2026 | Wednesday | —             | [View →](Week43/Day297-README.md) |
 | **Day 298** | March 12, 2026 | Thursday  | —             | [View →](Week43/Day298-README.md) |
 | **Day 299** | March 13, 2026 | Friday    | —             | [View →](Week43/Day299-README.md) |
-| **Day 300** | March 14, 2026 | Saturday  | 🌴 **Leave**  | –                                 |
+| **Day 300** | March 14, 2026 | Saturday  | **comp off**  | [View →](Week43/Day300-README.md)                                 |
 | **Day 301** | March 15, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
 
 
