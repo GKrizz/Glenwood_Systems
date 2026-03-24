@@ -596,8 +596,8 @@
 | 📆 Day      | Date              | Day       | 🚀 Highlights | 📄 Link                           |
 | ----------- | ----------------- | --------- | ------------- | --------------------------------- |
 | **Day 281** | February 23, 2026 | Monday    | 🌴 **Took Leave**   | [View →](Week41/Day281-README.md) |
-| **Day 282** | February 24, 2026 | Tuesday   | —             | [View →](Week41/Day282-README.md) |
-| **Day 283** | February 25, 2026 | Wednesday | —             | [View →](Week41/Day283-README.md) |
+| **Day 282** | February 24, 2026 | Tuesday   | **Case #242590** — Statin Allergy showing under Not Met            | [View →](Week41/Day282-README.md) |
+| **Day 283** | February 25, 2026 | Wednesday | **Case #242589**  — Statin Measure – Not Met patient missing             | [View →](Week41/Day283-README.md) |
 | **Day 284** | February 26, 2026 | Thursday  | **'update smoking status \ intervention' for pts of 'smoking status - critieria 2** - DRC                      | [View →](Week41/Day284-README.md) |
 | **Day 285** | February 27, 2026 | Friday    | **QRDA III Upload Issue** – Date Format Fix    | [View →](Week41/Day285-README.md) |
 | **Day 286** | February 28, 2026 | Saturday  |🌴 **Leave**   | [View →](Week41/Day286-README.md) |
