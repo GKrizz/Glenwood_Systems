@@ -313,3 +313,275 @@ log.info("MSE load → entries count: " + count);
 | UI blank            | No patient entries      | Regenerate data              |
 
 ---
+
+
+
+
+
+# 📘 README: MIPS Report Update – MDD + Suicide Risk Assessment (Case: JRANA)
+
+---
+
+# 🎯 Objective
+
+Update **MIPS Measure (MDD – Suicide Risk Assessment)** for **Reporting Year 2025**
+
+| Field      | Value                       |
+| ---------- | --------------------------- |
+| Patient ID | 11396                       |
+| Chart ID   | 11600                       |
+| Measure    | MDD Suicide Risk Assessment |
+| Age        | 15 ✅                        |
+| Status     | ❌ NOT MET                   |
+
+---
+
+# 📌 Issue Summary
+
+Even though:
+
+* ✅ Patient has **MDD diagnosis (F33.2)**
+* ✅ Patient has **valid encounters (CPT: 90791, 99214)**
+* ✅ Suicide Risk Assessment is documented
+
+👉 Still showing **NOT MET**
+
+---
+
+# 🔍 Root Cause
+
+👉 **Timing Issue**
+
+```text
+Suicide Risk Assessment created on:
+2026-03-11 ❌ (Outside Measurement Period)
+
+Measurement Period:
+2025-01-01 → 2025-12-31
+```
+
+So system evaluates:
+
+| Condition   | Result |
+| ----------- | ------ |
+| IPP         | ✅      |
+| Denominator | ✅      |
+| Numerator   | ❌      |
+
+---
+
+# 🧠 Measure Logic (Simplified)
+
+---
+
+## ✅ Initial Population (IPP)
+
+```sql
+Age between 6–16
+```
+
+✔ Patient age = 15 → INCLUDED
+
+---
+
+## ✅ Denominator
+
+```sql
+Valid Encounter + MDD Diagnosis
+```
+
+✔ CPT codes present
+✔ ICD10 F33.2 present
+
+---
+
+## ❌ Numerator
+
+```sql
+Suicide Risk Assessment (SNOMED: 225337009)
+WITHIN encounter period
+AND within measurement year
+```
+
+❌ Recorded in **2026 → NOT counted**
+
+---
+
+# 📊 Evidence
+
+---
+
+## 🔹 Encounters
+
+```sql
+SELECT service_detail_dos, cpt_cptcode
+FROM service_detail sd
+JOIN cpt c ON c.cpt_id = sd.service_detail_cptid
+WHERE sd.service_detail_patientid = 11396;
+```
+
+✔ Valid encounters found
+
+---
+
+## 🔹 Diagnosis
+
+```sql
+SELECT patient_assessments_dxcode
+FROM patient_assessments
+WHERE patient_assessments_patientid = 11396;
+```
+
+✔ F33.2 present
+
+---
+
+## 🔹 Suicide Risk Assessment
+
+```sql
+SELECT patient_clinical_elements_created_on
+FROM patient_clinical_elements
+WHERE patient_id = 11396
+AND SNOMED = '225337009';
+```
+
+❌ Result:
+
+```
+2026-03-11 ❌
+```
+
+---
+
+# 🛠️ FIX OPTIONS
+
+---
+
+# ✅ OPTION 1: Correct Data (RECOMMENDED)
+
+👉 If documentation was actually done in 2025
+
+### 🔧 Update Date
+
+```sql
+UPDATE patient_clinical_elements
+SET patient_clinical_elements_created_on = '2025-12-15'
+WHERE patient_clinical_elements_id = 10094868;
+```
+
+---
+
+# ⚠️ OPTION 2: Re-document in Correct Encounter
+
+👉 Preferred clinical approach
+
+* Open encounter (2025)
+* Add **Suicide Risk Assessment**
+* Save again
+
+---
+
+# ❌ OPTION 3: Do Nothing
+
+👉 Measure remains:
+
+```text
+DENOMINATOR = YES
+NUMERATOR   = NO
+STATUS      = NOT MET ❌
+```
+
+---
+
+# 🔄 Recalculate MIPS
+
+After fix:
+
+```text
+Trigger:
+MIPSPerformanceReport.Action?mode=1
+```
+
+OR
+
+```text
+Run MIPS Batch Job
+```
+
+---
+
+# 🧪 Validation Query
+
+---
+
+## ✅ Final Check
+
+```sql
+SELECT
+pce.patient_clinical_elements_patientid,
+pce.patient_clinical_elements_created_on,
+ce.clinical_elements_snomed
+FROM patient_clinical_elements pce
+JOIN clinical_elements ce
+ON ce.clinical_elements_gwid = pce.patient_clinical_elements_gwid
+WHERE ce.clinical_elements_snomed = '225337009'
+AND pce.patient_clinical_elements_patientid = 11396
+AND pce.patient_clinical_elements_created_on
+BETWEEN '2025-01-01' AND '2025-12-31';
+```
+
+✔ Should return **1 row**
+
+---
+
+# 🛡️ Preventive Fix (Important)
+
+---
+
+## 🔴 Problem Pattern
+
+```text
+Clinical data entered AFTER year-end
+→ Measure fails
+```
+
+---
+
+## ✅ Solution
+
+### 1️⃣ Add Validation in UI
+
+```text
+Block future-date documentation for past encounters
+```
+
+---
+
+### 2️⃣ Add Backend Check
+
+```java
+if(date not in measurementPeriod){
+   excludeFromNumerator();
+}
+```
+
+---
+
+#### 3️⃣ Logging
+
+```java
+log.warn("Assessment outside measurement period");
+```
+
+---
+
+# 🏁 Final Summary
+
+| Layer      | Status         |
+| ---------- | -------------- |
+| Age        | ✅              |
+| Encounter  | ✅              |
+| Diagnosis  | ✅              |
+| Assessment | ❌ (Wrong year) |
+
+---
