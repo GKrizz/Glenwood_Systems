@@ -611,11 +611,11 @@
 
 | 📆 Day      | Date          | Day       | 🚀 Highlights | 📄 Link                           |
 | ----------- | ------------- | --------- | ------------- | --------------------------------- |
-| **Day 288** | March 2, 2026 | Monday    | —             | [View →](Week42/Day288-README.md) |
-| **Day 289** | March 3, 2026 | Tuesday   | —             | [View →](Week42/Day289-README.md) |
-| **Day 290** | March 4, 2026 | Wednesday | —             | [View →](Week42/Day290-README.md) |
-| **Day 291** | March 5, 2026 | Thursday  | —             | [View →](Week42/Day291-README.md) |
-| **Day 292** | March 6, 2026 | Friday    | —             | [View →](Week42/Day292-README.md) |
+| **Day 288** | March 2, 2026 | Monday    | MIPSPerformanceJob_TimeOut             | [View →](Week42/Day288-README.md) |
+| **Day 289** | March 3, 2026 | Tuesday   | Pt Allergic to Stain shouldnt be listed under 'not met' for Statin measure - Dr Maly - Pending             | [View →](Week42/Day289-README.md) |
+| **Day 290** | March 4, 2026 | Wednesday | Statin issue             | [View →](Week42/Day290-README.md) |
+| **Day 291** | March 5, 2026 | Thursday  | QRDA III _Filter issue             | [View →](Week42/Day291-README.md) |
+| **Day 292** | March 6, 2026 | Friday    | QRDA III _Filter issue             | [View →](Week42/Day292-README.md) |
 | **Day 293** | March 7, 2026 | Saturday  | 🌴 **Leave**             | –                                 |
 | **Day 294** | March 8, 2026 | Sunday    | 🌴 **Leave**             | –                                 |
 
