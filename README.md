@@ -641,11 +641,11 @@
 
 | 📆 Day      | Date           | Day       | 🚀 Highlights | 📄 Link                           |
 | ----------- | -------------- | --------- | ------------- | --------------------------------- |
-| **Day 302** | March 16, 2026 | Monday    | —             | [View →](Week44/Day302-README.md) |
-| **Day 303** | March 17, 2026 | Tuesday   | —             | [View →](Week44/Day303-README.md) |
-| **Day 304** | March 18, 2026 | Wednesday | —             | [View →](Week44/Day304-README.md) |
-| **Day 305** | March 19, 2026 | Thursday  | —             | [View →](Week44/Day305-README.md) |
-| **Day 306** | March 20, 2026 | Friday    | —             | [View →](Week44/Day306-README.md) |
+| **Day 302** | March 16, 2026 | Monday    | **Case# 243359** – BPC – MSE tab not loading <br> Update MIPS report|jrana             | [View →](Week44/Day302-README.md) |
+| **Day 303** | March 17, 2026 | Tuesday   | Closing the Referral Loop: Receipt of Specialist Report            | [View →](Week44/Day303-README.md) |
+| **Day 304** | March 18, 2026 | Wednesday | **#241929**_Depression Remission at Twelve Months              | [View →](Week44/Day304-README.md) |
+| **Day 305** | March 19, 2026 | Thursday  | Unable to show ECQM data             | [View →](Week44/Day305-README.md) |
+| **Day 306** | March 20, 2026 | Friday    | **Case# 243527** - MIM - Auto-population of CPT II Codes <br> Closing the Referral Loop             | [View →](Week44/Day306-README.md) |
 | **Day 307** | March 21, 2026 | Saturday  |  🌴 **Leave** | –                                 |
 | **Day 308** | March 22, 2026 | Sunday    |  🌴 **Leave** | –                                 |
 
