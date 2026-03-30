@@ -657,7 +657,7 @@
 | ----------- | -------------- | --------- | ------------- | --------------------------------- |
 | **Day 309** | March 23, 2026 | Monday    | —             | [View →](Week45/Day309-README.md) |
 | **Day 310** | March 24, 2026 | Tuesday   | ✅ Fixed referral status → Measure PASSED (CMS50)             | [View →](Week45/Day310-README.md) |
-| **Day 311** | March 25, 2026 | Wednesday | —             | [View →](Week45/Day311-README.md) |
+| **Day 311** | March 25, 2026 | Wednesday | 🧪 CMS347 (Statin) analysis → ASCVD logic issue identified (DENEX handling)            | [View →](Week45/Day311-README.md) |
 | **Day 312** | March 26, 2026 | Thursday  | ⚠️ CMS22 bug → HTN patients wrongly in NOT MET (DENEX logic fix identified)             | [View →](Week45/Day312-README.md) |
 | **Day 313** | March 27, 2026 | Friday    | 🔍 Referral measure issue → Missing qualifying encounter + flowsheet bug             | [View →](Week45/Day313-README.md) |
 | **Day 314** | March 28, 2026 | Saturday  |  🌴 **Leave** | –                                 |
