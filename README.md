@@ -680,4 +680,19 @@
 
 ---
 
+## 📅 Week 47 Summary
+
+
+| 📆 Day      | Date           | Day       | 🚀 Highlights | 📄 Link                           |
+| ----------- | -------------- | --------- | ------------- | --------------------------------- |
+| **Day 323** | April 6, 2026  | Monday    |               | [View →](Week47/Day323-README.md) |
+| **Day 324** | April 7, 2026  | Tuesday   |               | [View →](Week47/Day324-README.md) |
+| **Day 325** | April 8, 2026  | Wednesday |               | [View →](Week47/Day325-README.md) |
+| **Day 326** | April 9, 2026  | Thursday  |               | [View →](Week47/Day326-README.md) |
+| **Day 327** | April 10, 2026 | Friday    |               | [View →](Week47/Day327-README.md) |
+| **Day 328** | April 11, 2026 | Saturday  |  🌴 **Leave**                                                         | –                                 |
+| **Day 329** | April 12, 2026 | Sunday    |  🌴 **Leave**                                                          | –                                 |
+
+
+
 
