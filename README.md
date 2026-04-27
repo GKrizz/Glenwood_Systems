@@ -680,19 +680,56 @@
 
 ---
 
-## 📅 Week 47 Summary
+## 📅 Week 47 Summary (Updated)
 
+| 📆 Day      | Date           | Day       | 🚀 Highlights                    | 📄 Link |
+| ----------- | -------------- | --------- | -------------------------------- | ------- |
+| **Day 323** | April 6, 2026  | Monday    |  Checked case **#244030**                            | [View →](Week47/Day323-README.md) |
+| **Day 324** | April 7, 2026  | Tuesday   | 🌡️ **Sick Leave**               | –       |
+| **Day 325** | April 8, 2026  | Wednesday | 🌡️ **Sick Leave**               | –       |
+| **Day 326** | April 9, 2026  | Thursday  | 🌡️ **Sick Leave**               | –       |
+| **Day 327** | April 10, 2026 | Friday    | 🌡️ **Sick Leave**               | –       |
+| **Day 328** | April 11, 2026 | Saturday  | 🌴 **Leave**                    | –       |
+| **Day 329** | April 12, 2026 | Sunday    | 🌴 **Leave**                    | –       |
 
-| 📆 Day      | Date           | Day       | 🚀 Highlights | 📄 Link                           |
-| ----------- | -------------- | --------- | ------------- | --------------------------------- |
-| **Day 323** | April 6, 2026  | Monday    |               | [View →](Week47/Day323-README.md) |
-| **Day 324** | April 7, 2026  | Tuesday   |               | [View →](Week47/Day324-README.md) |
-| **Day 325** | April 8, 2026  | Wednesday |               | [View →](Week47/Day325-README.md) |
-| **Day 326** | April 9, 2026  | Thursday  |               | [View →](Week47/Day326-README.md) |
-| **Day 327** | April 10, 2026 | Friday    |               | [View →](Week47/Day327-README.md) |
-| **Day 328** | April 11, 2026 | Saturday  |  🌴 **Leave**                                                         | –                                 |
-| **Day 329** | April 12, 2026 | Sunday    |  🌴 **Leave**                                                          | –                                 |
+---
 
+## 📅 Week 48 Summary
 
+| 📆 Day      | Date           | Day       | 🚀 Highlights      | 📄 Link |
+| ----------- | -------------- | --------- | ------------------ | ------- |
+| **Day 330** | April 13, 2026 | Monday    | 🌡️ **Sick Leave** | –       |
+| **Day 331** | April 14, 2026 | Tuesday   | 🌡️ **Sick Leave** | –       |
+| **Day 332** | April 15, 2026 | Wednesday | 🌡️ **Sick Leave** | –       |
+| **Day 333** | April 16, 2026 | Thursday  | 🌡️ **Sick Leave** | –       |
+| **Day 334** | April 17, 2026 | Friday    | 🌡️ **Sick Leave** | –       |
+| **Day 335** | April 18, 2026 | Saturday  | 🌴 **Leave**       | –       |
+| **Day 336** | April 19, 2026 | Sunday    | 🌴 **Leave**       | –       |
 
+---
 
+## 📅 Week 49 Summary
+
+| 📆 Day      | Date           | Day       | 🚀 Highlights      | 📄 Link |
+| ----------- | -------------- | --------- | ------------------ | ------- |
+| **Day 337** | April 20, 2026 | Monday    | 🌡️ **Sick Leave** | –       |
+| **Day 338** | April 21, 2026 | Tuesday   | 🌡️ **Sick Leave** | –       |
+| **Day 339** | April 22, 2026 | Wednesday | 🌡️ **Sick Leave** | –       |
+| **Day 340** | April 23, 2026 | Thursday  | 🌡️ **Sick Leave** | –       |
+| **Day 341** | April 24, 2026 | Friday    | 🌡️ **Sick Leave** | –       |
+| **Day 342** | April 25, 2026 | Saturday  | 🌴 **Leave**       | –       |
+| **Day 343** | April 26, 2026 | Sunday    | 🌴 **Leave**       | –       |
+
+---
+
+## 📅 Week 50 Summary (Updated)
+
+| 📆 Day      | Date           | Day       | 🚀 Highlights           | 📄 Link                           |
+| ----------- | -------------- | --------- | ----------------------- | --------------------------------- |
+| **Day 344** | April 27, 2026 | Monday    | ✅ **Resumed Work**      | [View →](Week50/Day344-README.md) |
+| **Day 345** | April 28, 2026 | Tuesday   | 🔄 **Work in Progress** | [View →](Week50/Day345-README.md) |
+| **Day 346** | April 29, 2026 | Wednesday | 🔄 **Work in Progress** | [View →](Week50/Day346-README.md) |
+| **Day 347** | April 30, 2026 | Thursday  | 🔄 **Work in Progress** | [View →](Week50/Day347-README.md) |
+| **Day 348** | May 1, 2026    | Friday    | 🔄 **Work in Progress** | [View →](Week50/Day348-README.md) |
+| **Day 349** | May 2, 2026    | Saturday  | 🌴 **Leave**            | –                                 |
+| **Day 350** | May 3, 2026    | Sunday    | 🌴 **Leave**            | –                                 |
