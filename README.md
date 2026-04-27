@@ -726,7 +726,7 @@
 
 | 📆 Day      | Date           | Day       | 🚀 Highlights           | 📄 Link                           |
 | ----------- | -------------- | --------- | ----------------------- | --------------------------------- |
-| **Day 344** | April 27, 2026 | Monday    | ✅ **Resumed Work**      | [View →](Week50/Day344-README.md) |
+| **Day 344** | April 27, 2026 | Monday    | 📄 **QRDA Report Documentation**      | [View →](Week50/Day344-README.md) |
 | **Day 345** | April 28, 2026 | Tuesday   | 🔄 **Work in Progress** | [View →](Week50/Day345-README.md) |
 | **Day 346** | April 29, 2026 | Wednesday | 🔄 **Work in Progress** | [View →](Week50/Day346-README.md) |
 | **Day 347** | April 30, 2026 | Thursday  | 🔄 **Work in Progress** | [View →](Week50/Day347-README.md) |
