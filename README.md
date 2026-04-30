@@ -730,6 +730,6 @@
 | **Day 345** | April 28, 2026 | Tuesday   |  **CPT II's - Dr Farooqui ::** | [View →](Week50/Day345-README.md) |
 | **Day 346** | April 29, 2026 | Wednesday |  **Case# 241929 - DBC - Status - Closed <br> Case# 243616 - IMA - Status - Closed <br> Case# 243842 - MALYNEW - Status - Closed** | [View →](Week50/Day346-README.md) |
 | **Day 347** | April 30, 2026 | Thursday  |  **Case# 243865 - GMALY - Status - Closed** | [View →](Week50/Day347-README.md) |
-| **Day 348** | May 1, 2026    | Friday    | 🌴 **Labour Day** | [View →](Week50/Day348-README.md) |
+| **Day 348** | May 1, 2026    | Friday    | 🌴 **Labour Day** | –                                 |
 | **Day 349** | May 2, 2026    | Saturday  | 🌴 **Leave**            | –                                 |
 | **Day 350** | May 3, 2026    | Sunday    | 🌴 **Leave**            | –                                 |
