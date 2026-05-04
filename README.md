@@ -733,3 +733,25 @@
 | **Day 348** | May 1, 2026    | Friday    | 🌴 **Labour Day** | –                                 |
 | **Day 349** | May 2, 2026    | Saturday  | 🌴 **Leave**            | –                                 |
 | **Day 350** | May 3, 2026    | Sunday    | 🌴 **Leave**            | –                                 |
+
+
+
+---
+
+Here’s your **Week 51 Summary** in the same format, continuing from Day 351:
+
+---
+
+## 📅 Week 51 Summary
+
+| 📆 Day      | Date         | Day       | 🚀 Highlights | 📄 Link                           |
+| ----------- | ------------ | --------- | ------------- | --------------------------------- |
+| **Day 351** | May 4, 2026  | Monday    |               | [View →](Week51/Day351-README.md) |
+| **Day 352** | May 5, 2026  | Tuesday   |               | [View →](Week51/Day352-README.md) |
+| **Day 353** | May 6, 2026  | Wednesday |               | [View →](Week51/Day353-README.md) |
+| **Day 354** | May 7, 2026  | Thursday  |               | [View →](Week51/Day354-README.md) |
+| **Day 355** | May 8, 2026  | Friday    |               | [View →](Week51/Day355-README.md) |
+| **Day 356** | May 9, 2026  | Saturday  | 🌴 **Leave**            | –                                 |
+| **Day 357** | May 10, 2026 | Sunday    | 🌴 **Leave**            | –                                 |
+
+---
