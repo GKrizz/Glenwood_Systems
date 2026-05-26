@@ -770,10 +770,10 @@
 
 | 📆 Day      | Date          | Day       | 🚀 Highlights | 📄 Link                           |
 | ------------ | ------------- | --------- | -------------- | --------------------------------- |
-| **Day 365** | May 18, 2026  | Monday    |                | [View →](Week53/Day365-README.md) |
+| **Day 365** | May 18, 2026  | Monday    |  Errors on ADT Inbound for Glenwood              | [View →](Week53/Day365-README.md) |
 | **Day 366** | May 19, 2026  | Tuesday   |                | [View →](Week53/Day366-README.md) |
-| **Day 367** | May 20, 2026  | Wednesday |                | [View →](Week53/Day367-README.md) |
-| **Day 368** | May 21, 2026  | Thursday  |                | [View →](Week53/Day368-README.md) |
+| **Day 367** | May 20, 2026  | Wednesday |  CareQuality | checking datas are comming from where              | [View →](Week53/Day367-README.md) |
+| **Day 368** | May 21, 2026  | Thursday  |  Error From Springs Backend – hammad              | [View →](Week53/Day368-README.md) |
 | **Day 369** | May 22, 2026  | Friday    |                | [View →](Week53/Day369-README.md) |
 | **Day 370** | May 23, 2026  | Saturday  | 🌴 **Leave**   | –                                 |
 | **Day 371** | May 24, 2026  | Sunday    | 🌴 **Leave**   | –                                 |
