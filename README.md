@@ -741,8 +741,8 @@
 | 📆 Day      | Date         | Day       | 🚀 Highlights | 📄 Link                           |
 | ----------- | ------------ | --------- | ------------- | --------------------------------- |
 | **Day 351** | May 4, 2026  | Monday    | **Case#245445**_PHQ-9 not showing as being completed - MIPS/sbaskaran              | [View →](Week51/Day351-README.md) |
-| **Day 352** | May 5, 2026  | Tuesday   |               | [View →](Week51/Day352-README.md) |
-| **Day 353** | May 6, 2026  | Wednesday |               | [View →](Week51/Day353-README.md) |
+| **Day 352** | May 5, 2026  | Tuesday   | Errors on ADT Inbound for Glenwood             | [View →](Week51/Day352-README.md) |
+| **Day 353** | May 6, 2026  | Wednesday | macra tab_risk_assessment_screening_id EMPTY Issue              | [View →](Week51/Day353-README.md) |
 | **Day 354** | May 7, 2026  | Thursday  |               | [View →](Week51/Day354-README.md) |
 | **Day 355** | May 8, 2026  | Friday    |               | [View →](Week51/Day355-README.md) |
 | **Day 356** | May 9, 2026  | Saturday  | 🌴 **Leave**            | –                                 |
