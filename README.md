@@ -785,8 +785,8 @@
 
 | 📆 Day      | Date          | Day       | 🚀 Highlights | 📄 Link                           |
 | ------------ | ------------- | --------- | -------------- | --------------------------------- |
-| **Day 372** | May 25, 2026  | Monday    |                 | [View →](Week54/Day372-README.md) |
-| **Day 373** | May 26, 2026  | Tuesday   |                 | [View →](Week54/Day373-README.md) |
+| **Day 372** | May 25, 2026  | Monday    |  🌴 **Took Leave**               | - |
+| **Day 373** | May 26, 2026  | Tuesday   |    Error From Springs Backend - anpatel              | [View →](Week54/Day372-README.md) |
 | **Day 374** | May 27, 2026  | Wednesday |                 | [View →](Week54/Day374-README.md) |
 | **Day 375** | May 28, 2026  | Thursday  |                 | [View →](Week54/Day375-README.md) |
 | **Day 376** | May 29, 2026  | Friday    |                 | [View →](Week54/Day376-README.md) |
