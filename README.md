@@ -803,7 +803,7 @@
 | **Day 379** | Jun 01, 2026 | Monday    |    CPT II's - Dr Farooqui - Long Pending Since 04/30           | [View →](Week55/Day379-README.md) |
 | **Day 380** | Jun 02, 2026 | Tuesday   |  QRDA-I Failures - Glenwood TINs             | [View →](Week55/Day380-README.md) |
 | **Day 381** | Jun 03, 2026 | Wednesday |  MIPS 2026 Monthly Report             | [View →](Week55/Day381-README.md) |
-| **Day 382** | Jun 04, 2026 | Thursday  |               | [View →](Week55/Day382-README.md) |
+| **Day 382** | Jun 04, 2026 | Thursday  |  CPT II Auto-Population – Dr. Farooqui (HbA1c & Blood Pressure Measures)             | [View →](Week55/Day382-README.md) |
 | **Day 383** | Jun 05, 2026 | Friday    | 🌴 **Leave**  | –                                 |
 | **Day 384** | Jun 06, 2026 | Saturday  | 🌴 **Leave**  | –                                 |
 | **Day 385** | Jun 07, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
