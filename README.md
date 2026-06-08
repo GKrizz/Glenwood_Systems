@@ -801,7 +801,7 @@
 | 📆 Day      | Date         | Day       | 🚀 Highlights | 📄 Link                           |
 | ----------- | ------------ | --------- | ------------- | --------------------------------- |
 | **Day 379** | Jun 01, 2026 | Monday    |    CPT II's - Dr Farooqui - Long Pending Since 04/30           | [View →](Week55/Day379-README.md) |
-| **Day 380** | Jun 02, 2026 | Tuesday   |               | [View →](Week55/Day380-README.md) |
+| **Day 380** | Jun 02, 2026 | Tuesday   |  QRDA-I Failures - Glenwood TINs             | [View →](Week55/Day380-README.md) |
 | **Day 381** | Jun 03, 2026 | Wednesday |               | [View →](Week55/Day381-README.md) |
 | **Day 382** | Jun 04, 2026 | Thursday  |               | [View →](Week55/Day382-README.md) |
 | **Day 383** | Jun 05, 2026 | Friday    | 🌴 **Leave**  | –                                 |
