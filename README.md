@@ -822,3 +822,21 @@
 | **Day 390** | Jun 12, 2026 | Friday    |               | [View →](Week56/Day390-README.md) |
 | **Day 391** | Jun 13, 2026 | Saturday  | 🌴 **Leave**  | –                                 |
 | **Day 392** | Jun 14, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
+
+---
+
+## 📅 Week 57 Summary
+
+| 📆 Day      | Date         | Day       | 🚀 Highlights | 📄 Link                           |
+| ----------- | ------------ | --------- | ------------- | --------------------------------- |
+| **Day 393** | Jun 15, 2026 | Monday    |               | [View →](Week57/Day393-README.md) |
+| **Day 394** | Jun 16, 2026 | Tuesday   |               | [View →](Week57/Day394-README.md) |
+| **Day 395** | Jun 17, 2026 | Wednesday |               | [View →](Week57/Day395-README.md) |
+| **Day 396** | Jun 18, 2026 | Thursday  |               | [View →](Week57/Day396-README.md) |
+| **Day 397** | Jun 19, 2026 | Friday    |               | [View →](Week57/Day397-README.md) |
+| **Day 398** | Jun 20, 2026 | Saturday  | 🌴 **Leave**  | –                                 |
+| **Day 399** | Jun 21, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
+
+
+
+
