@@ -843,7 +843,7 @@
 
 | 📆 Day      | Date         | Day       | 🚀 Highlights | 📄 Link                           |
 | ----------- | ------------ | --------- | ------------- | --------------------------------- |
-| **Day 400** | Jun 22, 2026 | Monday    |               | [View →](Week58/Day400-README.md) |
+| **Day 400** | Jun 22, 2026 | Monday    |  Reference - Premier Care Associates of West Hudson, Innovaccer and Glace EMR Connection and Sai Medical Center             | [View →](Week58/Day400-README.md) |
 | **Day 401** | Jun 23, 2026 | Tuesday   |  case# 247662 and case# 247660 -- CPT Code Removal, and BMI Configuration Review - EAAM             | [View →](Week58/Day401-README.md) |
 | **Day 402** | Jun 24, 2026 | Wednesday |               | [View →](Week58/Day402-README.md) |
 | **Day 403** | Jun 25, 2026 | Thursday  |               | [View →](Week58/Day403-README.md) |
