@@ -837,6 +837,20 @@
 | **Day 398** | Jun 20, 2026 | Saturday  | 🌴 **Leave**  | –                                 |
 | **Day 399** | Jun 21, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
 
+---
+
+## 📅 Week 58 Summary
+
+| 📆 Day      | Date         | Day       | 🚀 Highlights | 📄 Link                           |
+| ----------- | ------------ | --------- | ------------- | --------------------------------- |
+| **Day 400** | Jun 22, 2026 | Monday    |               | [View →](Week58/Day400-README.md) |
+| **Day 401** | Jun 23, 2026 | Tuesday   |               | [View →](Week58/Day401-README.md) |
+| **Day 402** | Jun 24, 2026 | Wednesday |               | [View →](Week58/Day402-README.md) |
+| **Day 403** | Jun 25, 2026 | Thursday  |               | [View →](Week58/Day403-README.md) |
+| **Day 404** | Jun 26, 2026 | Friday    |               | [View →](Week58/Day404-README.md) |
+| **Day 405** | Jun 27, 2026 | Saturday  | 🌴 **Leave**  | –                                 |
+| **Day 406** | Jun 28, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
+
 
 
 
