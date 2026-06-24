@@ -787,8 +787,8 @@
 | ------------ | ------------- | --------- | -------------- | --------------------------------- |
 | **Day 372** | May 25, 2026  | Monday    |  🌴 **Took Leave**               | - |
 | **Day 373** | May 26, 2026  | Tuesday   |    Error From Springs Backend - anpatel              | [View →](Week54/Day372-README.md) |
-| **Day 374** | May 27, 2026  | Wednesday |                 | [View →](Week54/Day374-README.md) |
-| **Day 375** | May 28, 2026  | Thursday  |                 | [View →](Week54/Day375-README.md) |
+| **Day 374** | May 27, 2026  | Wednesday | CPT II's - Dr Farooqui                | [View →](Week54/Day374-README.md) |
+| **Day 375** | May 28, 2026  | Thursday  |  CPT II's - Dr Farooqui               | [View →](Week54/Day375-README.md) |
 | **Day 376** | May 29, 2026  | Friday    |                 | [View →](Week54/Day376-README.md) |
 | **Day 377** | May 30, 2026  | Saturday  | 🌴 **Leave**    | –                                 |
 | **Day 378** | May 31, 2026  | Sunday    | 🌴 **Leave**    | –                                 |
@@ -815,9 +815,9 @@
 
 | 📆 Day      | Date         | Day       | 🚀 Highlights | 📄 Link                           |
 | ----------- | ------------ | --------- | ------------- | --------------------------------- |
-| **Day 386** | Jun 08, 2026 | Monday    |               | [View →](Week56/Day386-README.md) |
-| **Day 387** | Jun 09, 2026 | Tuesday   |               | [View →](Week56/Day387-README.md) |
-| **Day 388** | Jun 10, 2026 | Wednesday |               | [View →](Week56/Day388-README.md) |
+| **Day 386** | Jun 08, 2026 | Monday    |  mips monthly pdf             | [View →](Week56/Day386-README.md) |
+| **Day 387** | Jun 09, 2026 | Tuesday   | Case #246116_TIFF document view              | [View →](Week56/Day387-README.md) |
+| **Day 388** | Jun 10, 2026 | Wednesday | Where in QRDA these are captured              | [View →](Week56/Day388-README.md) |
 | **Day 389** | Jun 11, 2026 | Thursday  |               | [View →](Week56/Day389-README.md) |
 | **Day 390** | Jun 12, 2026 | Friday    |               | [View →](Week56/Day390-README.md) |
 | **Day 391** | Jun 13, 2026 | Saturday  | 🌴 **Leave**  | –                                 |
@@ -829,11 +829,11 @@
 
 | 📆 Day      | Date         | Day       | 🚀 Highlights | 📄 Link                           |
 | ----------- | ------------ | --------- | ------------- | --------------------------------- |
-| **Day 393** | Jun 15, 2026 | Monday    |               | [View →](Week57/Day393-README.md) |
-| **Day 394** | Jun 16, 2026 | Tuesday   |               | [View →](Week57/Day394-README.md) |
-| **Day 395** | Jun 17, 2026 | Wednesday |               | [View →](Week57/Day395-README.md) |
-| **Day 396** | Jun 18, 2026 | Thursday  |               | [View →](Week57/Day396-README.md) |
-| **Day 397** | Jun 19, 2026 | Friday    |               | [View →](Week57/Day397-README.md) |
+| **Day 393** | Jun 15, 2026 | Monday    |  pcawh_depression_screenin_xml_Issue              | [View →](Week57/Day393-README.md) |
+| **Day 394** | Jun 16, 2026 | Tuesday   |    Depression screening QRDA 1 not populating scores @ Innovaccer - Sai Medical Center            | [View →](Week57/Day394-README.md) |
+| **Day 395** | Jun 17, 2026 | Wednesday |  REferal and follow uyp not framing in QRDA              | [View →](Week57/Day395-README.md) |
+| **Day 396** | Jun 18, 2026 | Thursday  |  QRDA Follow up issue             | [View →](Week57/Day396-README.md) |
+| **Day 397** | Jun 19, 2026 | Friday    |  Premier Care Associates of West Hudson, Innovaccer and Glace EMR Connection             | [View →](Week57/Day397-README.md) |
 | **Day 398** | Jun 20, 2026 | Saturday  | 🌴 **Leave**  | –                                 |
 | **Day 399** | Jun 21, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
 
