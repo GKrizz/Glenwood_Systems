@@ -867,3 +867,19 @@
 | **Day 413** | Jul 05, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
 
 
+
+
+---
+
+## 📅 Week 60 Summary
+
+| 📆 Day      | Date         | Day       | 🚀 Highlights | 📄 Link                           |
+| ------------| ------------ | --------- | ------------- | --------------------------------- |
+| **Day 414** | Jul 06, 2026 | Monday    |               | [View →](Week60/Day414-README.md) |
+| **Day 415** | Jul 07, 2026 | Tuesday   |               | [View →](Week60/Day415-README.md) |
+| **Day 416** | Jul 08, 2026 | Wednesday |               | [View →](Week60/Day416-README.md) |
+| **Day 417** | Jul 09, 2026 | Thursday  |               | [View →](Week60/Day417-README.md) |
+| **Day 418** | Jul 10, 2026 | Friday    |               | [View →](Week60/Day418-README.md) |
+| **Day 419** | Jul 11, 2026 | Saturday  | 🌴 **Leave**  | –                                 |
+| **Day 420** | Jul 12, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
+
