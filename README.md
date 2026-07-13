@@ -883,3 +883,17 @@
 | **Day 419** | Jul 11, 2026 | Saturday  | 🌴 **Leave**  | –                                 |
 | **Day 420** | Jul 12, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
 
+---
+
+## 📅 Week 61 Summary
+
+| 📆 Day      | Date         | Day       | 🚀 Highlights | 📄 Link                           |
+| ----------- | ------------ | --------- | ------------- | --------------------------------- |
+| **Day 421** | Jul 13, 2026 | Monday    |               | [View →](Week61/Day421-README.md) |
+| **Day 422** | Jul 14, 2026 | Tuesday   |               | [View →](Week61/Day422-README.md) |
+| **Day 423** | Jul 15, 2026 | Wednesday |               | [View →](Week61/Day423-README.md) |
+| **Day 424** | Jul 16, 2026 | Thursday  |               | [View →](Week61/Day424-README.md) |
+| **Day 425** | Jul 17, 2026 | Friday    |               | [View →](Week61/Day425-README.md) |
+| **Day 426** | Jul 18, 2026 | Saturday  |🌴 **Leave**  | –                                 |
+| **Day 427** | Jul 19, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
+
