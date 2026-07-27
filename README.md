@@ -907,6 +907,6 @@
 | **Day 429** | Jul 21, 2026 | Tuesday   |               | [View →](Week62/Day429-README.md) |
 | **Day 430** | Jul 22, 2026 | Wednesday |               | [View →](Week62/Day430-README.md) |
 | **Day 431** | Jul 23, 2026 | Thursday  |               | [View →](Week62/Day431-README.md) |
-| **Day 432** | Jul 24, 2026 | Friday    |               | [View →](Week62/Day432-README.md) |
+| **Day 432** | Jul 24, 2026 | Friday    |  Malynew - Use of High-Risk Medications in Older Adults             | [View →](Week62/Day432-README.md) |
 | **Day 433** | Jul 25, 2026 | Saturday  | 🌴 **Leave**  | –                                 |
 | **Day 434** | Jul 26, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
