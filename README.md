@@ -910,3 +910,22 @@
 | **Day 432** | Jul 24, 2026 | Friday    |  Malynew - Use of High-Risk Medications in Older Adults             | [View →](Week62/Day432-README.md) |
 | **Day 433** | Jul 25, 2026 | Saturday  | 🌴 **Leave**  | –                                 |
 | **Day 434** | Jul 26, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
+
+
+
+
+---
+
+## 📅 Week 63 Summary
+
+| 📆 Day      | Date         | Day       | 🚀 Highlights | 📄 Link                           |
+| ----------- | ------------ | --------- | ------------- | --------------------------------- |
+| **Day 435** | Jul 27, 2026 | Monday    |               | [View →](Week63/Day435-README.md) |
+| **Day 436** | Jul 28, 2026 | Tuesday   |               | [View →](Week63/Day436-README.md) |
+| **Day 437** | Jul 29, 2026 | Wednesday |               | [View →](Week63/Day437-README.md) |
+| **Day 438** | Jul 30, 2026 | Thursday  |               | [View →](Week63/Day438-README.md) |
+| **Day 439** | Jul 31, 2026 | Friday    |               | [View →](Week63/Day439-README.md) |
+| **Day 440** | Aug 1, 2026  | Saturday  | 🌴 **Leave**  | –                                 |
+| **Day 441** | Aug 2, 2026  | Sunday    | 🌴 **Leave**  | –                                 |
+
+---
