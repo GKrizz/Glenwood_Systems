@@ -862,7 +862,7 @@
 | **Day 408** | Jun 30, 2026 | Tuesday   |               | [View →](Week59/Day408-README.md) |
 | **Day 409** | Jul 01, 2026 | Wednesday |               | [View →](Week59/Day409-README.md) |
 | **Day 410** | Jul 02, 2026 | Thursday  |               | [View →](Week59/Day410-README.md) |
-| **Day 411** | Jul 03, 2026 | Friday    |               | [View →](Week59/Day411-README.md) |
+| **Day 411** | Jul 03, 2026 | Friday    |  EXPORT QRDA 1 | [View →](Week59/Day411-README.md) |
 | **Day 412** | Jul 04, 2026 | Saturday  | 🌴 **Leave**  | –                                 |
 | **Day 413** | Jul 05, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
 
