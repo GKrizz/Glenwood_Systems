@@ -1,1 +1,953 @@
+# README – Direct Messaging Authorization Issue (Unable to Send CCDA)
 
+## Overview
+
+This document describes the investigation, root cause analysis (RCA), implementation details, SQL validation, and resolution for the issue where **Morgan Beck** was unable to send a **CCDA (Clinical Care Document Architecture)** through **Patient Chart → Utilities → Send Clinical Summary**.
+
+The application displayed the error:
+
+> **"You are not authorized to send mail using [universal.healthclinics@glacecentral.com](mailto:universal.healthclinics@glacecentral.com)"**
+
+The issue was traced to the **Direct Mail authorization logic**, specifically the absence of permission records in the **direct_mail_permit** table.
+
+---
+
+# Background / Context
+
+Customer reported:
+
+* User: **Morgan Beck**
+* Workflow:
+
+  * Patient Chart
+  * Utilities
+  * Send Clinical Summary
+  * Select Direct Email
+  * Click Send
+
+Instead of sending the CCDA, the application displayed:
+
+> **You are not authorized to send mail**
+
+Support requested investigation to determine why Morgan could not send using Dr. Michael Appiagyei's Direct Mail address.
+
+---
+
+# Business Context
+
+Direct Messaging is used to electronically transmit CCDA documents between healthcare organizations.
+
+The application supports:
+
+* Provider Direct Mail IDs
+* MedTunnel IDs
+* Delegated authorization through Direct Mail Permit
+
+Business requirement:
+
+A non-provider user may send Direct Messages on behalf of a provider **only if authorization exists.**
+
+---
+
+# Problem Statement
+
+## Reported Issue
+
+User:
+
+> Morgan Beck
+
+Attempted:
+
+```
+Patient Chart
+   ↓
+Utilities
+   ↓
+Send Clinical Summary
+   ↓
+Select:
+universal.healthclinics@glacecentral.com
+   ↓
+Send
+```
+
+Result:
+
+```
+You are not authorized to send mail
+```
+
+---
+
+# Impact
+
+The user was unable to:
+
+* Send CCDA
+* Send Direct Messages
+* Share Clinical Summary
+
+Business impact:
+
+Care management workflows relying on Direct Messaging were blocked.
+
+---
+
+# Environment Details
+
+Database:
+
+PostgreSQL
+
+Backend:
+
+Spring Boot
+
+Language:
+
+Java
+
+Controller
+
+```
+DirectMailController.java
+```
+
+Service
+
+```
+DirectMailServiceImpl.java
+```
+
+Repository
+
+```
+DirectMailPermitRepository
+```
+
+---
+
+# System Components Involved
+
+## UI
+
+Patient Chart
+
+↓
+
+Utilities
+
+↓
+
+Send Clinical Summary
+
+---
+
+## REST API
+
+```
+POST /directMailsender
+```
+
+Controller:
+
+```
+DirectMailController
+```
+
+Method:
+
+```java
+sendDirectMailAndSaveLog()
+```
+
+↓
+
+Calls
+
+```java
+mailService.sendMail(bean, request)
+```
+
+↓
+
+Implemented in
+
+```
+DirectMailServiceImpl
+```
+
+---
+
+## Database Tables
+
+### emp_profile
+
+Stores employee/provider information.
+
+Important columns:
+
+```
+emp_profile_loginid
+
+emp_profile_doctorid
+
+emp_profile_direct_mailid
+
+emp_profile_medtunnal_mailid
+
+emp_profile_is_active
+```
+
+---
+
+### direct_mail_permit
+
+Stores delegated authorization.
+
+Structure
+
+```text
+direct_mail_permit_id
+
+direct_mail_permit_docid
+
+direct_mail_permit_empid
+
+isactive
+```
+
+Meaning
+
+```
+Doctor ID
+↓
+
+Employee Doctor ID
+
+Authorized User
+```
+
+---
+
+### hisp_config
+
+Stores Direct Messaging gateway configuration.
+
+Observed:
+
+```
+XDR enabled
+
+SMTP disabled
+
+POST disabled
+```
+
+---
+
+### document_workflow
+
+Logs outgoing document workflow.
+
+---
+
+### document_workflow_attachments
+
+Stores attachment metadata.
+
+---
+
+# Investigation Timeline
+
+## Step 1
+
+Verified table structure.
+
+```sql
+\d direct_mail_permit
+```
+
+Observation
+
+Table existed.
+
+---
+
+## Step 2
+
+Checked authorization entries.
+
+```sql
+SELECT *
+FROM direct_mail_permit;
+```
+
+Result
+
+```
+0 rows
+```
+
+Observation
+
+No delegated permissions configured.
+
+---
+
+## Step 3
+
+Verified Direct Mail owner.
+
+```sql
+SELECT *
+FROM emp_profile
+WHERE emp_profile_direct_mailid =
+'universal.healthclinics@glacecentral.com';
+```
+
+Result
+
+```
+Michael Appiagyei
+
+Doctor ID = MA
+
+Login ID = 5
+```
+
+Confirmed:
+
+The Direct Mail address belongs to Dr. Michael.
+
+---
+
+## Step 4
+
+Verified Morgan.
+
+```sql
+SELECT *
+FROM emp_profile
+WHERE emp_profile_fullname
+ILIKE '%Morgan%';
+```
+
+Result
+
+```
+Morgan Beck
+
+Doctor ID
+
+B239
+
+Login ID
+
+242
+
+Direct Mail ID
+
+NULL
+```
+
+Observation
+
+Morgan does not own a Direct Mail ID.
+
+---
+
+## Step 5
+
+Reviewed DirectMailServiceImpl
+
+Investigated
+
+```java
+sendMail()
+```
+
+Found authorization logic.
+
+---
+
+## Step 6
+
+Authorization Flow
+
+### Scenario 1
+
+If sender's login owns the selected Direct Mail ID
+
+```
+Allow
+```
+
+Logic:
+
+```
+loginId
+
+↓
+
+Employee Profile
+
+↓
+
+Direct Mail ID
+
+↓
+
+Match
+
+↓
+
+Send
+```
+
+---
+
+### Scenario 2
+
+If sender is using another provider's Direct Mail ID
+
+The application checks
+
+```
+direct_mail_permit
+```
+
+using:
+
+```
+doctor id
+
++
+
+login id
+```
+
+---
+
+Query generated by JPA
+
+Equivalent logic
+
+```
+Current Login
+
+↓
+
+Employee Profile
+
+↓
+
+Direct Mail Permit
+
+↓
+
+Doctor ID match?
+
+↓
+
+Authorized?
+
+↓
+
+Yes → Allow
+
+No → Reject
+```
+
+---
+
+## Step 7
+
+Observed
+
+```
+direct_mail_permit
+
+↓
+
+Empty
+```
+
+Therefore
+
+```
+Authorization failed
+
+↓
+
+"You are not authorized to send mail"
+```
+
+---
+
+# Root Cause Analysis
+
+## Root Cause
+
+Morgan Beck attempted to send a Direct Message using:
+
+```
+universal.healthclinics@glacecentral.com
+```
+
+which belongs to
+
+```
+Dr. Michael Appiagyei
+```
+
+However,
+
+```
+direct_mail_permit
+```
+
+contained **no authorization records**.
+
+Therefore,
+
+authorization validation failed.
+
+---
+
+## Contributing Factors
+
+* Morgan had no Direct Mail ID assigned.
+* No delegated authorization existed.
+* Authorization logic correctly enforced permissions.
+
+---
+
+## Rejected Investigation Paths
+
+The following were ruled out:
+
+* Gateway URL issue
+* XDR configuration issue
+* SMTP issue
+* MedTunnel configuration
+* Missing workflow records
+* Attachment generation
+* Document workflow logging
+
+---
+
+# Detailed Technical Findings
+
+## Controller
+
+```
+DirectMailController
+```
+
+API
+
+```
+POST
+
+/directMailsender
+```
+
+↓
+
+Calls
+
+```java
+mailService.sendMail()
+```
+
+---
+
+## Service
+
+```
+DirectMailServiceImpl
+```
+
+Primary methods
+
+```
+sendMail()
+
+putEntry()
+```
+
+---
+
+## Authorization Logic
+
+When From Address belongs to another provider:
+
+Application performs
+
+```
+Find doctor owning email
+
+↓
+
+Find logged-in employee
+
+↓
+
+Lookup direct_mail_permit
+
+↓
+
+If record exists
+
+↓
+
+Allow
+
+Else
+
+↓
+
+Reject
+```
+
+---
+
+## Error Returned
+
+```java
+status.setStatusMessage(
+"You are not authorized to send mail using "
++ bean.getFromAddress()
+);
+```
+
+---
+
+# SQL Analysis and Scripts
+
+## Investigation Queries
+
+### Check authorization table
+
+```sql
+SELECT *
+FROM direct_mail_permit;
+```
+
+Purpose
+
+Verify delegated permissions.
+
+Result
+
+```
+No records
+```
+
+Type
+
+Investigation
+
+---
+
+### Find Direct Mail owner
+
+```sql
+SELECT *
+FROM emp_profile
+WHERE emp_profile_direct_mailid =
+'universal.healthclinics@glacecentral.com';
+```
+
+Purpose
+
+Identify owner of Direct Mail ID.
+
+Result
+
+```
+Michael Appiagyei
+
+Doctor ID = MA
+```
+
+Type
+
+Investigation
+
+---
+
+### Find Morgan
+
+```sql
+SELECT *
+FROM emp_profile
+WHERE emp_profile_fullname
+ILIKE '%Morgan%';
+```
+
+Purpose
+
+Retrieve Morgan's login and doctor ID.
+
+Result
+
+```
+Doctor ID = B239
+
+Login ID = 242
+```
+
+---
+
+### Verify Gateway
+
+```sql
+SELECT *
+FROM hisp_config;
+```
+
+Result
+
+```
+XDR Enabled
+
+SMTP Disabled
+
+POST Disabled
+```
+
+Observation
+
+Gateway configuration was not the issue.
+
+---
+
+# Fix Script
+
+After business confirmation that Morgan should be allowed to send using Dr. Michael's Direct Mail ID, the required authorization entry was added.
+
+Equivalent SQL:
+
+```sql
+INSERT INTO direct_mail_permit
+(
+    direct_mail_permit_docid,
+    direct_mail_permit_empid,
+    isactive
+)
+VALUES
+(
+    'MA',
+    'B239',
+    TRUE
+);
+```
+
+Observed record:
+
+```text
+direct_mail_permit_id : 603
+
+direct_mail_permit_docid : MA
+
+direct_mail_permit_empid : B239
+
+isactive : true
+```
+
+Type
+
+Configuration Fix
+
+---
+
+# Validation Queries
+
+```sql
+SELECT *
+FROM direct_mail_permit;
+```
+
+Expected
+
+```
+MA
+
+B239
+
+true
+```
+
+---
+
+# Code Analysis
+
+## Files Investigated
+
+```
+DirectMailController.java
+```
+
+```
+DirectMailServiceImpl.java
+```
+
+```
+DirectMailPermit.java
+```
+
+---
+
+## Code Changes
+
+No Java code changes were required.
+
+Only database configuration was updated.
+
+---
+
+# Fixes and Workarounds
+
+## Permanent Fix
+
+Populate
+
+```
+direct_mail_permit
+```
+
+with appropriate authorization mapping.
+
+---
+
+## Alternative Configuration
+
+If delegation is **not** required:
+
+Assign the user their own Direct Mail ID.
+
+```
+emp_profile_direct_mailid
+```
+
+Then they can send using their own mailbox.
+
+---
+
+# Validation and Testing
+
+After inserting the authorization record:
+
+Verified:
+
+* User login
+* Selected Dr. Michael's Direct Mail ID
+* Sent Clinical Summary
+* Authorization error no longer appeared
+* CCDA sent successfully
+
+---
+
+# Risks and Side Effects
+
+## If incorrect mappings are inserted
+
+Unauthorized users may send Direct Messages on behalf of providers.
+
+---
+
+## Data Integrity
+
+Ensure:
+
+```
+direct_mail_permit_docid
+
+↓
+
+Valid doctor
+```
+
+```
+direct_mail_permit_empid
+
+↓
+
+Valid employee
+```
+
+---
+
+## Deployment
+
+Configuration only.
+
+No application restart required.
+
+---
+
+# Pending Work
+
+None identified.
+
+---
+
+# Lessons Learned
+
+## Key Debugging Insight
+
+Authorization failure was **not** caused by:
+
+* Gateway
+* XDR
+* SMTP
+* Controller
+* API
+* Attachment generation
+
+It was caused by missing authorization data.
+
+---
+
+## Future Troubleshooting Checklist
+
+When **"You are not authorized to send mail"** appears:
+
+1. Verify the selected **From Address**.
+2. Check whether the logged-in user owns that Direct Mail ID.
+3. If not, verify the `direct_mail_permit` table for an active authorization mapping.
+4. Confirm the provider's Direct Mail ID exists in `emp_profile`.
+5. Validate `hisp_config` to ensure the gateway is configured.
+6. Re-test the **Patient Chart → Utilities → Send Clinical Summary** workflow after configuration changes.
+
+---
+
+# Decision Matrix
+
+| Scenario                                                         | Required Action                                                                                  |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| User should send using another provider's Direct Mail ID         | Insert an active authorization record into `direct_mail_permit`.                                 |
+| User should **not** send using another provider's Direct Mail ID | Assign the user their own `emp_profile_direct_mailid` and use that address for Direct Messaging. |
+| `direct_mail_permit` has no matching record                      | Authorization fails with **"You are not authorized to send mail"**.                              |
+| Authorization record exists and is active                        | User can successfully send the CCDA using the provider's Direct Mail address.                    |
+
+---
+
+# Final Resolution
+
+**Issue:** Morgan Beck received **"You are not authorized to send mail"** while attempting to send a CCDA using Dr. Michael Appiagyei's Direct Mail address.
+
+**Root Cause:** No delegated authorization existed in the `direct_mail_permit` table linking Morgan (`B239`) to Dr. Michael (`MA`).
+
+**Resolution:** Added the required active authorization entry:
+
+```text
+Doctor ID : MA
+Employee ID : B239
+Active : true
+```
+
+After the configuration update, Morgan was able to send the CCDA successfully without encountering the authorization error.
