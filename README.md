@@ -923,8 +923,8 @@
 | **Day 435** | Jul 27, 2026 | Monday    | Implemented Depression Follow-up to CCDA              | [View →](Week63/Day435-README.md) |
 | **Day 436** | Jul 28, 2026 | Tuesday   | Dr Farooqui - CPT II Codes Not Populating in Claims Due to Unsigned Clinical Notes              | [View →](Week63/Day436-README.md) |
 | **Day 437** | Jul 29, 2026 | Wednesday |  Report generated              | [View →](Week63/Day437-README.md) |
-| **Day 438** | Jul 30, 2026 | Thursday  |               | [View →](Week63/Day438-README.md) |
-| **Day 439** | Jul 31, 2026 | Friday    |               | [View →](Week63/Day439-README.md) |
+| **Day 438** | Jul 30, 2026 | Thursday  |  Care quality popup implemenattion             | [View →](Week63/Day438-README.md) |
+| **Day 439** | Jul 31, 2026 | Friday    | CMS130v13_measure id : 113_Colorectal Cancer Screening              | [View →](Week63/Day439-README.md) |
 | **Day 440** | Aug 1, 2026  | Saturday  | 🌴 **Leave**  | –                                 |
 | **Day 441** | Aug 2, 2026  | Sunday    | 🌴 **Leave**  | –                                 |
 
