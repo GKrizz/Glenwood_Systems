@@ -892,7 +892,7 @@
 | **Day 421** | Jul 13, 2026 | Monday    |   EAAM--Request for ACP Codes Report (June 3 – July 3)| [View →](Week61/Day421-README.md) |
 | **Day 422** | Jul 14, 2026 | Tuesday   |   CareQuality TIFF Viewer Enhancement - Multi-Page TIFF Support            | [View →](Week61/Day422-README.md) |
 | **Day 423** | Jul 15, 2026 | Wednesday |  PCAWH_CCDA             | [View →](Week61/Day423-README.md) |
-| **Day 424** | Jul 16, 2026 | Thursday  |                | [View →](Week61/Day424-README.md) |
+| **Day 424** | Jul 16, 2026 | Thursday  |  Added reporting year in dropdown list | [View →](Week61/Day424-README.md) |
 | **Day 425** | Jul 17, 2026 | Friday    |  CPT II codes - Dr Shyam Sundar Rajan             | [View →](Week61/Day425-README.md) |
 | **Day 426** | Jul 18, 2026 | Saturday  |🌴 **Leave**  | –                                 |
 | **Day 427** | Jul 19, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
