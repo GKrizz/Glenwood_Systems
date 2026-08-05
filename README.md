@@ -936,7 +936,7 @@
 | 📆 Day      | Date         | Day       | 🚀 Highlights | 📄 Link                           |
 | ----------- | ------------ | --------- | ------------- | --------------------------------- |
 | **Day 442** | Aug 3, 2026  | Monday    | MIPS sign alert while signing template | [View →](Week64/Day442-README.md) |
-| **Day 443** | Aug 4, 2026  | Tuesday   | TBD | [View →](Week64/Day443-README.md) |
+| **Day 443** | Aug 4, 2026  | Tuesday   | 🌴 **Leave** (Fever) | [View →](Week64/Day443-README.md) |
 | **Day 444** | Aug 5, 2026  | Wednesday | TBD | [View →](Week64/Day444-README.md) |
 | **Day 445** | Aug 6, 2026  | Thursday  | TBD | [View →](Week64/Day445-README.md) |
 | **Day 446** | Aug 7, 2026  | Friday    | TBD | [View →](Week64/Day446-README.md) |
