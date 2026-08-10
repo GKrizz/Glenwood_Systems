@@ -937,14 +937,26 @@
 | ----------- | ------------ | --------- | ------------- | --------------------------------- |
 | **Day 442** | Aug 3, 2026  | Monday    | MIPS sign alert while signing template | [View →](Week64/Day442-README.md) |
 | **Day 443** | Aug 4, 2026  | Tuesday   | 🌴 **Leave** (Fever) | [View →](Week64/Day443-README.md) |
-| **Day 444** | Aug 5, 2026  | Wednesday | TBD | [View →](Week64/Day444-README.md) |
-| **Day 445** | Aug 6, 2026  | Thursday  | TBD | [View →](Week64/Day445-README.md) |
-| **Day 446** | Aug 7, 2026  | Friday    | TBD | [View →](Week64/Day446-README.md) |
+| **Day 444** | Aug 5, 2026  | Wednesday | CPT Code Removal, and BMI Configuration Review ::/EAAM | [View →](Week64/Day444-README.md) |
+| **Day 445** | Aug 6, 2026  | Thursday  | Dr Rossi – FAG | [View →](Week64/Day445-README.md) |
+| **Day 446** | Aug 7, 2026  | Friday    | MIPS Monthly report issue   | [View →](Week64/Day446-README.md) |
 | **Day 447** | Aug 8, 2026  | Saturday  | 🌴 **Leave** | – |
 | **Day 448** | Aug 9, 2026  | Sunday    | 🌴 **Leave** | – |
 
 ---
+## 📅 Week 65 Summary
 
+| 📆 Day      | Date         | Day       | 🚀 Highlights | 📄 Link                           |
+| ----------- | ------------ | --------- | ------------- | --------------------------------- |
+| **Day 449** | Aug 10, 2026 | Monday    |  MIM - CPT II codes ::: Implementing Colonoscopy  | [View →](Week65/Day449-README.md) |
+| **Day 450** | Aug 11, 2026 | Tuesday   |               | [View →](Week65/Day450-README.md) |
+| **Day 451** | Aug 12, 2026 | Wednesday |               | [View →](Week65/Day451-README.md) |
+| **Day 452** | Aug 13, 2026 | Thursday  |               | [View →](Week65/Day452-README.md) |
+| **Day 453** | Aug 14, 2026 | Friday    |               | [View →](Week65/Day453-README.md) |
+| **Day 454** | Aug 15, 2026 | Saturday  | 🌴 **Leave**  | –                                 |
+| **Day 455** | Aug 16, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
+
+---
 
 
 
