@@ -949,10 +949,10 @@
 | 📆 Day      | Date         | Day       | 🚀 Highlights | 📄 Link                           |
 | ----------- | ------------ | --------- | ------------- | --------------------------------- |
 | **Day 449** | Aug 10, 2026 | Monday    |  MIM - CPT II codes ::: Implementing Colonoscopy  | [View →](Week65/Day449-README.md) |
-| **Day 450** | Aug 11, 2026 | Tuesday   |               | [View →](Week65/Day450-README.md) |
-| **Day 451** | Aug 12, 2026 | Wednesday |               | [View →](Week65/Day451-README.md) |
-| **Day 452** | Aug 13, 2026 | Thursday  |               | [View →](Week65/Day452-README.md) |
-| **Day 453** | Aug 14, 2026 | Friday    |               | [View →](Week65/Day453-README.md) |
+| **Day 450** | Aug 11, 2026 | Tuesday   |  TRAAG - PQRS Tab not loading <br> Confirmation on CCDA Data Changes - PCAWH            | [View →](Week65/Day450-README.md) |
+| **Day 451** | Aug 12, 2026 | Wednesday |   Mental status section no configured            | [View →](Week65/Day451-README.md) |
+| **Day 452** | Aug 13, 2026 | Thursday  | PCAWH - positive depression screening ccda              | [View →](Week65/Day452-README.md) |
+| **Day 453** | Aug 14, 2026 | Friday    |  FAPC Advance search not working            | [View →](Week65/Day453-README.md) |
 | **Day 454** | Aug 15, 2026 | Saturday  | 🌴 **Leave**  | –                                 |
 | **Day 455** | Aug 16, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
 
