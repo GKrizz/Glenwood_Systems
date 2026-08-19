@@ -963,7 +963,7 @@
 | 📆 Day      | Date         | Day       | 🚀 Highlights | 📄 Link                           |
 | ----------- | ------------ | --------- | ------------- | --------------------------------- |
 | **Day 456** | Aug 17, 2026 | Monday    |               | [View →](Week66/Day456-README.md) |
-| **Day 457** | Aug 18, 2026 | Tuesday   |               | [View →](Week66/Day457-README.md) |
+| **Day 457** | Aug 18, 2026 | Tuesday   | Export clinical summary options is not working/ FAPC              | [View →](Week66/Day457-README.md) |
 | **Day 458** | Aug 19, 2026 | Wednesday |               | [View →](Week66/Day458-README.md) |
 | **Day 459** | Aug 20, 2026 | Thursday  |               | [View →](Week66/Day459-README.md) |
 | **Day 460** | Aug 21, 2026 | Friday    |               | [View →](Week66/Day460-README.md) |
