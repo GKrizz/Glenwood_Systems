@@ -972,6 +972,20 @@
 
 ---
 
+## 📅 Week 67 Summary
+
+| 📆 Day      | Date         | Day       | 🚀 Highlights | 📄 Link                           |
+| ----------- | ------------ | --------- | ------------- | --------------------------------- |
+| **Day 463** | Aug 24, 2026 | Monday    |  QRDA I -Timeout Issue Acc:Lien             | [View →](Week67/Day463-README.md) |
+| **Day 464** | Aug 25, 2026 | Tuesday   |               | [View →](Week67/Day464-README.md) |
+| **Day 465** | Aug 26, 2026 | Wednesday |               | [View →](Week67/Day465-README.md) |
+| **Day 466** | Aug 27, 2026 | Thursday  |               | [View →](Week67/Day466-README.md) |
+| **Day 467** | Aug 28, 2026 | Friday    |               | [View →](Week67/Day467-README.md) |
+| **Day 468** | Aug 29, 2026 | Saturday  | 🌴 **Leave**  | –                                 |
+| **Day 469** | Aug 30, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
+
+---
+
 
 
 
