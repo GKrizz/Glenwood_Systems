@@ -985,8 +985,30 @@
 | **Day 469** | Aug 30, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
 
 ---
+ ## 📅 Week 68 Summary
 
+| 📆 Day | Date | Day | 🚀 Highlights | 📄 Link |
+| --- | --- | --- | --- | --- |
+| **Day 470** | Aug 31, 2026 | Monday |  | View → |
+| **Day 471** | Sep 1, 2026 | Tuesday |  | View → |
+| **Day 472** | Sep 2, 2026 | Wednesday |  | View → |
+| **Day 473** | Sep 3, 2026 | Thursday |  | View → |
+| **Day 474** | Sep 4, 2026 | Friday |  | View → |
+| **Day 475** | Sep 5, 2026 | Saturday | 🌴 **Leave** | – |
+| **Day 476** | Sep 6, 2026 | Sunday | 🌴 **Leave** | – |
 
+---
 
+ ## 📅 Week 69 Summary
 
+ | 📆 Day | Date | Day | 🚀 Highlights | 📄 Link |
+| --- | --- | --- | --- | --- |
+| **Day 477** | Sep 7, 2026 | Monday |  | View → |
+| **Day 478** | Sep 8, 2026 | Tuesday |  | View → |
+| **Day 479** | Sep 9, 2026 | Wednesday |  | View → |
+| **Day 480** | Sep 10, 2026 | Thursday |  | View → |
+| **Day 481** | Sep 11, 2026 | Friday |  | View → |
+| **Day 482** | Sep 12, 2026 | Saturday | 🌴 **Leave** | – |
+| **Day 483** | Sep 13, 2026 | Sunday | 🌴 **Leave** | – |
 
+---
