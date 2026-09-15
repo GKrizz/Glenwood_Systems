@@ -962,11 +962,11 @@
 
 | 📆 Day      | Date         | Day       | 🚀 Highlights | 📄 Link                           |
 | ----------- | ------------ | --------- | ------------- | --------------------------------- |
-| **Day 456** | Aug 17, 2026 | Monday    |               | [View →](Week66/Day456-README.md) |
+| **Day 456** | Aug 17, 2026 | Monday    |  Export clinical summary issue             | [View →](Week66/Day456-README.md) |
 | **Day 457** | Aug 18, 2026 | Tuesday   | Export clinical summary options is not working/ FAPC              | [View →](Week66/Day457-README.md) |
-| **Day 458** | Aug 19, 2026 | Wednesday |               | [View →](Week66/Day458-README.md) |
-| **Day 459** | Aug 20, 2026 | Thursday  |               | [View →](Week66/Day459-README.md) |
-| **Day 460** | Aug 21, 2026 | Friday    |               | [View →](Week66/Day460-README.md) |
+| **Day 458** | Aug 19, 2026 | Wednesday |  EAAM_Patient refused_denominator exceptions             | [View →](Week66/Day458-README.md) |
+| **Day 459** | Aug 20, 2026 | Thursday  |   QRDA I - lien_acc            | [View →](Week66/Day459-README.md) |
+| **Day 460** | Aug 21, 2026 | Friday    |   QRDA I flow changed          | [View →](Week66/Day460-README.md) |
 | **Day 461** | Aug 22, 2026 | Saturday  | 🌴 **Leave**  | –                                 |
 | **Day 462** | Aug 23, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
 
@@ -978,9 +978,9 @@
 | ----------- | ------------ | --------- | ------------- | --------------------------------- |
 | **Day 463** | Aug 24, 2026 | Monday    |  QRDA I -Timeout Issue Acc:Lien             | [View →](Week67/Day463-README.md) |
 | **Day 464** | Aug 25, 2026 | Tuesday   |  Case# 251455 : ACC:CCG - MIPS Measure Configuration and EMR Activity              | [View →](Week67/Day464-README.md) |
-| **Day 465** | Aug 26, 2026 | Wednesday |               | [View →](Week67/Day465-README.md) |
-| **Day 466** | Aug 27, 2026 | Thursday  |               | [View →](Week67/Day466-README.md) |
-| **Day 467** | Aug 28, 2026 | Friday    |               | [View →](Week67/Day467-README.md) |
+| **Day 465** | Aug 26, 2026 | Wednesday |   EAAM_Denominator exception            | [View →](Week67/Day465-README.md) |
+| **Day 466** | Aug 27, 2026 | Thursday  |   RWM_Filter not excluding NH patients            | [View →](Week67/Day466-README.md) |
+| **Day 467** | Aug 28, 2026 | Friday    |   Srajan fix            | [View →](Week67/Day467-README.md) |
 | **Day 468** | Aug 29, 2026 | Saturday  | 🌴 **Leave**  | –                                 |
 | **Day 469** | Aug 30, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
 
@@ -989,11 +989,11 @@
 
 | 📆 Day | Date | Day | 🚀 Highlights | 📄 Link |
 | --- | --- | --- | --- | --- |
-| **Day 470** | Aug 31, 2026 | Monday |  | View → |
-| **Day 471** | Sep 1, 2026 | Tuesday |  | View → |
-| **Day 472** | Sep 2, 2026 | Wednesday |  | View → |
-| **Day 473** | Sep 3, 2026 | Thursday |  | View → |
-| **Day 474** | Sep 4, 2026 | Friday |  | View → |
+| **Day 470** | Aug 31, 2026 | Monday | Amita patel count - for MIPS 2026 | View → |
+| **Day 471** | Sep 1, 2026 | Tuesday |  Bethala - NH not filtered| View → |
+| **Day 472** | Sep 2, 2026 | Wednesday |  RWM_NH_not filtered | View → |
+| **Day 473** | Sep 3, 2026 | Thursday | CQM Patient Object MultipleBagFetchException issue | View → |
+| **Day 474** | Sep 4, 2026 | Friday | Flowsheet cpt II trigger _srajan  | View → |
 | **Day 475** | Sep 5, 2026 | Saturday | 🌴 **Leave** | – |
 | **Day 476** | Sep 6, 2026 | Sunday | 🌴 **Leave** | – |
 
@@ -1003,17 +1003,15 @@
 
  | 📆 Day | Date | Day | 🚀 Highlights | 📄 Link |
 | --- | --- | --- | --- | --- |
-| **Day 477** | Sep 7, 2026 | Monday |  | View → |
-| **Day 478** | Sep 8, 2026 | Tuesday |  | View → |
-| **Day 479** | Sep 9, 2026 | Wednesday |  | View → |
-| **Day 480** | Sep 10, 2026 | Thursday |  | View → |
-| **Day 481** | Sep 11, 2026 | Friday |  | View → |
+| **Day 477** | Sep 7, 2026 | Monday | MIPS Monthly report Sent  | View → |
+| **Day 478** | Sep 8, 2026 | Tuesday | Flowsheet - Hba1C | View → |
+| **Day 479** | Sep 9, 2026 | Wednesday |  Download CDS Objec  | View → |
+| **Day 480** | Sep 10, 2026 | Thursday |  Srajan_cpt II_Tobacco | smoking | View → |
+| **Day 481** | Sep 11, 2026 | Friday |  Srajan_cpt II_Eye exam| View → |
 | **Day 482** | Sep 12, 2026 | Saturday | 🌴 **Leave** | – |
 | **Day 483** | Sep 13, 2026 | Sunday | 🌴 **Leave** | – |
 
 ---
-
-
 
 ## 📅 Week 70 Summary
 
@@ -1026,7 +1024,6 @@
 | **Day 488** | Sep 18, 2026 | Friday    |               | [View →](Week70/Day488-README.md) |
 | **Day 489** | Sep 19, 2026 | Saturday  | 🌴 **Leave**  | –                                 |
 | **Day 490** | Sep 20, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
-**
 
 
-**
+---
