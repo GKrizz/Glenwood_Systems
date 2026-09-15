@@ -1006,7 +1006,7 @@
 | **Day 477** | Sep 7, 2026 | Monday | MIPS Monthly report Sent  | View → |
 | **Day 478** | Sep 8, 2026 | Tuesday | Flowsheet - Hba1C | View → |
 | **Day 479** | Sep 9, 2026 | Wednesday |  Download CDS Objec  | View → |
-| **Day 480** | Sep 10, 2026 | Thursday |  Srajan_cpt II_Tobacco | smoking | View → |
+| **Day 480** | Sep 10, 2026 | Thursday |  Srajan_cpt II_Tobacco or smoking | View → |
 | **Day 481** | Sep 11, 2026 | Friday |  Srajan_cpt II_Eye exam| View → |
 | **Day 482** | Sep 12, 2026 | Saturday | 🌴 **Leave** | – |
 | **Day 483** | Sep 13, 2026 | Sunday | 🌴 **Leave** | – |
