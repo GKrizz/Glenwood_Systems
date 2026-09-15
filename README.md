@@ -1018,7 +1018,7 @@
 | 📆 Day      | Date         | Day       | 🚀 Highlights | 📄 Link                           |
 | ----------- | ------------ | --------- | ------------- | --------------------------------- |
 | **Day 484** | Sep 14, 2026 | Monday    |  **🌴 Leave – Vinayagar Chathurthi**             | [View →](Week70/Day484-README.md) |
-| **Day 485** | Sep 15, 2026 | Tuesday   |               | [View →](Week70/Day485-README.md) |
+| **Day 485** | Sep 15, 2026 | Tuesday   |  Acc:AGC -- MIPS Current Medication Review -- not met             | [View →](Week70/Day485-README.md) |
 | **Day 486** | Sep 16, 2026 | Wednesday |               | [View →](Week70/Day486-README.md) |
 | **Day 487** | Sep 17, 2026 | Thursday  |               | [View →](Week70/Day487-README.md) |
 | **Day 488** | Sep 18, 2026 | Friday    |               | [View →](Week70/Day488-README.md) |
