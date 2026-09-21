@@ -1020,10 +1020,27 @@
 | **Day 484** | Sep 14, 2026 | Monday    |  **🌴 Leave – Vinayagar Chathurthi**             | [View →](Week70/Day484-README.md) |
 | **Day 485** | Sep 15, 2026 | Tuesday   |  Acc:AGC -- MIPS Current Medication Review -- not met <br> ACC: DRC -- MIPS report how the MIPS score is trending through AI Dictation            | [View →](Week70/Day485-README.md) |
 | **Day 486** | Sep 16, 2026 | Wednesday |  Acc:AGC -- MIPS Flowsheet Billing Doctor Issue <br> CCD Lab Reference Range Mismatch            | [View →](Week70/Day486-README.md) |
-| **Day 487** | Sep 17, 2026 | Thursday  |               | [View →](Week70/Day487-README.md) |
-| **Day 488** | Sep 18, 2026 | Friday    |               | [View →](Week70/Day488-README.md) |
+| **Day 487** | Sep 17, 2026 | Thursday  |   Fixed srajan cptII documentation            | [View →](Week70/Day487-README.md) |
+| **Day 488** | Sep 18, 2026 | Friday    |   Fix lab reference range rounding in CCD            | [View →](Week70/Day488-README.md) |
 | **Day 489** | Sep 19, 2026 | Saturday  | 🌴 **Leave**  | –                                 |
 | **Day 490** | Sep 20, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
+
+
+---
+
+
+## 📅 Week 71 Summary
+
+| 📆 Day      | Date         | Day       | 🚀 Highlights | 📄 Link                           |
+| ----------- | ------------ | --------- | ------------- | --------------------------------- |
+| **Day 491** | Sep 21, 2026 | Monday    |               | [View →](Week71/Day491-README.md) |
+| **Day 492** | Sep 22, 2026 | Tuesday   |               | [View →](Week71/Day492-README.md) |
+| **Day 493** | Sep 23, 2026 | Wednesday |               | [View →](Week71/Day493-README.md) |
+| **Day 494** | Sep 24, 2026 | Thursday  |               | [View →](Week71/Day494-README.md) |
+| **Day 495** | Sep 25, 2026 | Friday    |               | [View →](Week71/Day495-README.md) |
+| **Day 496** | Sep 26, 2026 | Saturday  | 🌴 **Leave**  | –                                 |
+| **Day 497** | Sep 27, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
+
 
 
 ---
