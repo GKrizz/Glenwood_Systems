@@ -1034,7 +1034,7 @@
 | 📆 Day      | Date         | Day       | 🚀 Highlights | 📄 Link                           |
 | ----------- | ------------ | --------- | ------------- | --------------------------------- |
 | **Day 491** | Sep 21, 2026 | Monday    |               | [View →](Week71/Day491-README.md) |
-| **Day 492** | Sep 22, 2026 | Tuesday   |               | [View →](Week71/Day492-README.md) |
+| **Day 492** | Sep 22, 2026 | Tuesday   |  Quality Measure CPT II Codes Based on Diagnosis Codes – Dr. Atluri             | [View →](Week71/Day492-README.md) |
 | **Day 493** | Sep 23, 2026 | Wednesday |               | [View →](Week71/Day493-README.md) |
 | **Day 494** | Sep 24, 2026 | Thursday  |               | [View →](Week71/Day494-README.md) |
 | **Day 495** | Sep 25, 2026 | Friday    |               | [View →](Week71/Day495-README.md) |
