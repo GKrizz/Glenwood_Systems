@@ -1033,14 +1033,29 @@
 
 | 📆 Day      | Date         | Day       | 🚀 Highlights | 📄 Link                           |
 | ----------- | ------------ | --------- | ------------- | --------------------------------- |
-| **Day 491** | Sep 21, 2026 | Monday    |               | [View →](Week71/Day491-README.md) |
+| **Day 491** | Sep 21, 2026 | Monday    |  Import Depression Screening Data - Sri Medical             | [View →](Week71/Day491-README.md) |
 | **Day 492** | Sep 22, 2026 | Tuesday   |  Quality Measure CPT II Codes Based on Diagnosis Codes – Dr. Atluri             | [View →](Week71/Day492-README.md) |
-| **Day 493** | Sep 23, 2026 | Wednesday |               | [View →](Week71/Day493-README.md) |
-| **Day 494** | Sep 24, 2026 | Thursday  |               | [View →](Week71/Day494-README.md) |
-| **Day 495** | Sep 25, 2026 | Friday    |               | [View →](Week71/Day495-README.md) |
+| **Day 493** | Sep 23, 2026 | Wednesday | Access Request-tandon_cda              | [View →](Week71/Day493-README.md) |
+| **Day 494** | Sep 24, 2026 | Thursday  |  Malynew --  Quality Measures were still showing as “NA"             | [View →](Week71/Day494-README.md) |
+| **Day 495** | Sep 25, 2026 | Friday    |  HFC and Hammad accounts -- MACRA tab not loading issue             | [View →](Week71/Day495-README.md) |
 | **Day 496** | Sep 26, 2026 | Saturday  | 🌴 **Leave**  | –                                 |
 | **Day 497** | Sep 27, 2026 | Sunday    | 🌴 **Leave**  | –                                 |
 
 
+
+---
+
+## 📅 Week 72 Summary
+
+
+| 📆 Day      | Date         | Day       | 🚀 Highlights | 📄 Link                           |
+| ----------- | ------------ | --------- | ------------- | --------------------------------- |
+| **Day 498** | Sep 28, 2026 | Monday    |               | [View →](Week72/Day498-README.md) |
+| **Day 499** | Sep 29, 2026 | Tuesday   |               | [View →](Week72/Day499-README.md) |
+| **Day 500** | Sep 30, 2026 | Wednesday |               | [View →](Week72/Day500-README.md) |
+| **Day 501** | Oct 1, 2026  | Thursday  |               | [View →](Week72/Day501-README.md) |
+| **Day 502** | Oct 2, 2026  | Friday    |               | [View →](Week72/Day502-README.md) |
+| **Day 503** | Oct 3, 2026  | Saturday  | 🌴 **Leave**  | –                                 |
+| **Day 504** | Oct 4, 2026  | Sunday    | 🌴 **Leave**  | –                                 |
 
 ---
