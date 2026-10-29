@@ -1050,12 +1050,86 @@
 
 | 📆 Day      | Date         | Day       | 🚀 Highlights | 📄 Link                           |
 | ----------- | ------------ | --------- | ------------- | --------------------------------- |
-| **Day 498** | Sep 28, 2026 | Monday    |               | [View →](Week72/Day498-README.md) |
-| **Day 499** | Sep 29, 2026 | Tuesday   |               | [View →](Week72/Day499-README.md) |
-| **Day 500** | Sep 30, 2026 | Wednesday |               | [View →](Week72/Day500-README.md) |
-| **Day 501** | Oct 1, 2026  | Thursday  |               | [View →](Week72/Day501-README.md) |
-| **Day 502** | Oct 2, 2026  | Friday    |               | [View →](Week72/Day502-README.md) |
+| **Day 498** | Sep 28, 2026 | Monday    |  Delete Empty JSON Files             | [View →](Week72/Day498-README.md) |
+| **Day 499** | Sep 29, 2026 | Tuesday   |   Kurup_add_1123F_For_99497            | [View →](Week72/Day499-README.md) |
+| **Day 500** | Sep 30, 2026 | Wednesday |   CDA Interface_xml not generating            | [View →](Week72/Day500-README.md) |
+| **Day 501** | Oct 1, 2026  | Thursday  |   CDA Interface_xml not generating            | [View →](Week72/Day501-README.md) |
+| **Day 502** | Oct 2, 2026  | Friday    |   gtr cda Issue            | [View →](Week72/Day502-README.md) |
 | **Day 503** | Oct 3, 2026  | Saturday  | 🌴 **Leave**  | –                                 |
 | **Day 504** | Oct 4, 2026  | Sunday    | 🌴 **Leave**  | –                                 |
 
 ---
+
+
+
+## 📅 Week 73 Summary
+
+| 📆 Day      | Date         | Day       | 🚀 Highlights | 📄 Link |
+| ----------- | ------------ | --------- | ------------- | ------- |
+| **Day 505** | Oct 5, 2026  | Monday    | 	PCAWH_CDA_Interface          | View →  |
+| **Day 506** | Oct 6, 2026  | Tuesday   | 	 Magnum PhysiciansPC_ccd         | View →  |
+| **Day 507** | Oct 7, 2026  | Wednesday | 	  MIPS PROBLEM - FAG       | View →  |
+| **Day 508** | Oct 8, 2026  | Thursday  | 	 PHQ -9 screening - not met          | View →  |
+| **Day 509** | Oct 9, 2026  | Friday    | 	Request for Guidance on Reported Patients          | View →  |
+| **Day 510** | Oct 10, 2026 | Saturday  | 🌴 **Leave**  | –       |
+| **Day 511** | Oct 11, 2026 | Sunday    | 🌴 **Leave**  | –       |
+
+---
+
+## 📅 Week 74 Summary
+
+| 📆 Day      | Date         | Day       | 🚀 Highlights | 📄 Link |
+| ----------- | ------------ | --------- | ------------- | ------- |
+| **Day 512** | Oct 12, 2026 | Monday    | 	 PQRS_not_saving_FAG         | View →  |
+| **Day 513** | Oct 13, 2026 | Tuesday   | 	remove test & deceased patients - sbaskaran          | View →  |
+| **Day 514** | Oct 14, 2026 | Wednesday | 	 CDA Timeout issue         | View →  |
+| **Day 515** | Oct 15, 2026 | Thursday  | 	GTR_CDA issue          | View →  |
+| **Day 516** | Oct 16, 2026 | Friday    | 	 Care quality not working         | View →  |
+| **Day 517** | Oct 17, 2026 | Saturday  | 🌴 **Leave**  | –       |
+| **Day 518** | Oct 18, 2026 | Sunday    | 🌴 **Leave**  | –       |
+
+---
+
+## 📅 Week 75 Summary
+
+| 📆 Day      | Date         | Day       | 🚀 Highlights | 📄 Link |
+| ----------- | ------------ | --------- | ------------- | ------- |
+| **Day 519** | Oct 19, 2026 | Monday    | 	Depression_screening_njavvaji          | View →  |
+| **Day 520** | Oct 20, 2026 | Tuesday   | 	pcawh_mips_report_notLoading          | View →  |
+| **Day 521** | Oct 21, 2026 | Wednesday | 	smc_QRDA         | View →  |
+| **Day 522** | Oct 22, 2026 | Thursday  | 	cq_rhmc    <br> CCDA blank screen      | View →  |
+| **Day 523** | Oct 23, 2026 | Friday    | 	MIPS Issue/pcawh           | View →  |
+| **Day 524** | Oct 24, 2026 | Saturday  | 🌴 **Leave**  | –       |
+| **Day 525** | Oct 25, 2026 | Sunday    | 🌴 **Leave**  | –       |
+
+---
+
+## 📅 Week 76 Summary
+
+| 📆 Day      | Date         | Day       | 🚀 Highlights | 📄 Link |
+| ----------- | ------------ | --------- | ------------- | ------- |
+| **Day 526** | Oct 26, 2026 | Monday    | 	  Vital Signs Showing 'None' - GTR and CCW        | View →  |
+| **Day 527** | Oct 27, 2026 | Tuesday   | 	   SFTP Server -- P360 File upload - QRDA <br> Regarding Mipps has issues not taking the updates on BP etc/NJAVVAJI <br> QRDA I - Export -- Dr Vashista        | View →  |
+| **Day 528** | Oct 28, 2026 | Wednesday | 	  Depression Screening Score Not Updated - SriMedical Center <br>  SFTP Server -- P360 File upload - QRDA        | View →  |
+| **Day 529** | Oct 29, 2026 | Thursday  | 	          | View →  |
+| **Day 530** | Oct 30, 2026 | Friday    | 	          | View →  |
+| **Day 531** | Oct 31, 2026 | Saturday  | 🌴 **Leave**  | –       |
+| **Day 532** | Nov 1, 2026  | Sunday    | 🌴 **Leave**  | –       |
+
+---
+
+## 📅 Week 77 Summary
+
+| 📆 Day      | Date        | Day       | 🚀 Highlights | 📄 Link |
+| ----------- | ----------- | --------- | ------------- | ------- |
+| **Day 533** | Nov 2, 2026 | Monday    | 	          | View →  |
+| **Day 534** | Nov 3, 2026 | Tuesday   | 	          | View →  |
+| **Day 535** | Nov 4, 2026 | Wednesday | 	          | View →  |
+| **Day 536** | Nov 5, 2026 | Thursday  | 	          | View →  |
+| **Day 537** | Nov 6, 2026 | Friday    | 	          | View →  |
+| **Day 538** | Nov 7, 2026 | Saturday  | 🌴 **Leave**  | –       |
+| **Day 539** | Nov 8, 2026 | Sunday    | 🌴 **Leave**  | –       |
+
+---
+
+
