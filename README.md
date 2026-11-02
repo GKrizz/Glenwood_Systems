@@ -1111,8 +1111,8 @@
 | **Day 526** | Oct 26, 2026 | Monday    | 	  Vital Signs Showing 'None' - GTR and CCW        | View →  |
 | **Day 527** | Oct 27, 2026 | Tuesday   | 	   SFTP Server -- P360 File upload - QRDA <br> Regarding Mipps has issues not taking the updates on BP etc/NJAVVAJI <br> QRDA I - Export -- Dr Vashista        | View →  |
 | **Day 528** | Oct 28, 2026 | Wednesday | 	  Depression Screening Score Not Updated - SriMedical Center <br>  SFTP Server -- P360 File upload - QRDA        | View →  |
-| **Day 529** | Oct 29, 2026 | Thursday  | 	          | View →  |
-| **Day 530** | Oct 30, 2026 | Friday    | 	          | View →  |
+| **Day 529** | Oct 29, 2026 | Thursday  | 	  MIPS/njavvaji <br> MIPS data - PDoshi        | View →  |
+| **Day 530** | Oct 30, 2026 | Friday    | 	 MIPS job jar         | View →  |
 | **Day 531** | Oct 31, 2026 | Saturday  | 🌴 **Leave**  | –       |
 | **Day 532** | Nov 1, 2026  | Sunday    | 🌴 **Leave**  | –       |
 
