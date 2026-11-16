@@ -9,7 +9,7 @@
 > This log captures key milestones, technical insights, and hands-on progress in real time.<br>
 > **MIPS Documentation** | [View →](Week6/MIPS_Doc.md) <br>
 > **Cypress Documentation** | [View →](Cypress.md)
-
+> **MIPS Kafka Batch Documentation** | [View →](MIPS_Batch_View.md)  
 ---
 
 ## 📅 **Week 1 Summary**
