@@ -8,7 +8,7 @@
 > Welcome to my daily journal as a **Software Engineer** — tracking my setup, learning, and development journey.
 > This log captures key milestones, technical insights, and hands-on progress in real time.<br>
 > **MIPS Documentation** | [View →](Week6/MIPS_Doc.md) <br>
-> **Cypress Documentation** | [View →](Cypress.md)
+> **Cypress Documentation** | [View →](Cypress.md) <br>
 > **MIPS Kafka Batch Documentation** | [View →](MIPS_Batch_View.md)  
 ---
 
