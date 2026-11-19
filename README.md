@@ -1130,3 +1130,59 @@
 | **Day 539** | Nov 8, 2026 | Sunday | 🌴 **Leave** | – |
 
 ---
+
+
+## 📅 Week 78 Summary
+
+| 📆 Day | Date | Day | 🚀 Highlights | 📄 Link |
+| --- | --- | --- | --- | --- |
+| **Day 540** | Nov 9, 2026 | Monday | | [View →](Week78/Day540-README.md) |
+| **Day 541** | Nov 10, 2026 | Tuesday | | [View →](Week78/Day541-README.md) |
+| **Day 542** | Nov 11, 2026 | Wednesday | | [View →](Week78/Day542-README.md) |
+| **Day 543** | Nov 12, 2026 | Thursday | | [View →](Week78/Day543-README.md) |
+| **Day 544** | Nov 13, 2026 | Friday | | [View →](Week78/Day544-README.md) |
+| **Day 545** | Nov 14, 2026 | Saturday | 🌴 **Leave** | – |
+| **Day 546** | Nov 15, 2026 | Sunday | 🌴 **Leave** | – |
+
+---
+
+## 📅 Week 79 Summary
+
+| 📆 Day | Date | Day | 🚀 Highlights | 📄 Link |
+| --- | --- | --- | --- | --- |
+| **Day 547** | Nov 16, 2026 | Monday | | [View →](Week79/Day547-README.md) |
+| **Day 548** | Nov 17, 2026 | Tuesday | | [View →](Week79/Day548-README.md) |
+| **Day 549** | Nov 18, 2026 | Wednesday | | [View →](Week79/Day549-README.md) |
+| **Day 550** | Nov 19, 2026 | Thursday | React page : Message logs| [View →](Week79/Day550-README.md) |
+| **Day 551** | Nov 20, 2026 | Friday | | [View →](Week79/Day551-README.md) |
+| **Day 552** | Nov 21, 2026 | Saturday | 🌴 **Leave** | – |
+| **Day 553** | Nov 22, 2026 | Sunday | 🌴 **Leave** | – |
+
+---
+
+## 📅 Week 80 Summary
+
+| 📆 Day | Date | Day | 🚀 Highlights | 📄 Link |
+| --- | --- | --- | --- | --- |
+| **Day 554** | Nov 23, 2026 | Monday | | [View →](Week80/Day554-README.md) |
+| **Day 555** | Nov 24, 2026 | Tuesday | | [View →](Week80/Day555-README.md) |
+| **Day 556** | Nov 25, 2026 | Wednesday | | [View →](Week80/Day556-README.md) |
+| **Day 557** | Nov 26, 2026 | Thursday | | [View →](Week80/Day557-README.md) |
+| **Day 558** | Nov 27, 2026 | Friday | | [View →](Week80/Day558-README.md) |
+| **Day 559** | Nov 28, 2026 | Saturday | 🌴 **Leave** | – |
+| **Day 560** | Nov 29, 2026 | Sunday | 🌴 **Leave** | – |
+
+---
+
+## 📅 Week 81 Summary
+
+| 📆 Day | Date | Day | 🚀 Highlights | 📄 Link |
+| --- | --- | --- | --- | --- |
+| **Day 561** | Nov 30, 2026 | Monday | | [View →](Week81/Day561-README.md) |
+| **Day 562** | Dec 1, 2026 | Tuesday | | [View →](Week81/Day562-README.md) |
+| **Day 563** | Dec 2, 2026 | Wednesday | | [View →](Week81/Day563-README.md) |
+| **Day 564** | Dec 3, 2026 | Thursday | | [View →](Week81/Day564-README.md) |
+| **Day 565** | Dec 4, 2026 | Friday | | [View →](Week81/Day565-README.md) |
+| **Day 566** | Dec 5, 2026 | Saturday | 🌴 **Leave** | – |
+| **Day 567** | Dec 6, 2026 | Sunday | 🌴 **Leave** | – |
+
